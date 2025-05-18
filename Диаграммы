@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Страница — 1" id="dDT7GElRHOb6N2Zh_6MV">
-    <mxGraphModel dx="1303" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,42 @@
             <mxPoint x="1560" y="210" as="sourcePoint" />
             <mxPoint x="1700" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-100" value="Авторизированный пользователь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-101" value="Страница создания сборки:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-102" value="Сервер приложений:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="630" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-103" value="Сервер БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-104" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eYX8LEwGcla53x2QBni8-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1160" as="sourcePoint" />
+            <mxPoint x="160" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-105" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eYX8LEwGcla53x2QBni8-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1170" as="sourcePoint" />
+            <mxPoint x="800" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eYX8LEwGcla53x2QBni8-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="1160" as="sourcePoint" />
+            <mxPoint x="1010" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-107" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eYX8LEwGcla53x2QBni8-109" value="Создать пустую с" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
