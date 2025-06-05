@@ -17,9 +17,13 @@ const UserProfile: FC = () => {
 	const navigate = useNavigate();
 
 	const {mutate: updateUser} = useMutation({
-		mutationKey: ['update user'],
-		mutationFn: UserService.updateUser,
-	})
+                mutationKey: ['update user'],
+                mutationFn: UserService.updateUser,
+                onSuccess: () => {
+                        setButtonActive(false);
+                        navigate(0);
+                }
+        })
 
 
 	const onFormChange = (data: GetUserDto) => {
@@ -27,11 +31,8 @@ const UserProfile: FC = () => {
 	}
 
 	const onUserUpdateFormSubmit = (data: UpdateUserDto) => {
-		console.log(data)
-		updateUser(data);
-		setButtonActive(false);
-		navigate(0);
-	}
+                updateUser(data);
+        }
 
 	if (!user)
 		return <div>Загрузка...</div>
