@@ -58,10 +58,25 @@ class ReportAnalyzer
             $problems[] = "GPU VRAM: {$gpuVramGb} ГБ (< {$thresholds['gpu_vram_gb']}) — неудовлетворительный объём видеопамяти.";
             $details['gpu'] = $gpuVramGb;
         }
-        if ($ssdType !== null && strtolower($ssdType) !== strtolower($thresholds['ssd_type'])) {
-            $problems[] = "SSD: {$ssdType} (< требуемого {$thresholds['ssd_type']}) — рекомендуется SSD типа {$thresholds['ssd_type']}.";
-            $details['ssd'] = $ssdType;
+        if ($ssdType !== null) {
+            $ssdPriority = [
+                'hdd'  => 1,
+                'sata' => 2,
+                'nvme' => 3,
+            ];
+
+            $actual = strtolower($ssdType);
+            $required = strtolower($thresholds['ssd_type']);
+
+            if (
+                isset($ssdPriority[$actual], $ssdPriority[$required]) &&
+                $ssdPriority[$actual] < $ssdPriority[$required]
+            ) {
+                $problems[] = "SSD: {$ssdType} (< требуемого {$thresholds['ssd_type']}) — рекомендуется SSD типа {$thresholds['ssd_type']}.";
+                $details['ssd'] = $ssdType;
+            }
         }
+
 
         // 4. Общая рекомендация с порогами
         $minReq = "Рекомендуемый минимум: CPU {$thresholds['cpu_cores']} ядер / RAM {$thresholds['ram_gb']} ГБ / " .
