@@ -23,8 +23,10 @@ return [
         'modeling' => [
             'thresholds' => [
                 'cpu_cores'   => 8,
-                'ram_gb'      => 32,
-                'gpu_vram_gb' => 8,
+                'cpu_score'    => 24, // 8 × 3000 / 1000
+                'ram_gb'      => 32, 
+                'gpu_vram_gb' => 8,  
+                'gpu_score'    => 125, // 8GB×10 + 256bit/8 + 1500MHz/100 = 125
                 'ssd_type'    => 'NVMe',
             ],
             'priority_order' => ['ram', 'gpu', 'cpu', 'ssd'],
@@ -40,9 +42,11 @@ return [
             // Пример минимальных порогов для базовых ERP-систем (1С)
             'thresholds' => [
                 'cpu_cores'   => 4,
+                'cpu_score'    => 10,     // 4 × 2500 / 1000
                 'ram_gb'      => 8,
                 'gpu_vram_gb' => 2,
-                'ssd_type'    => 'SATA', // минимально допустимо, но NVMe лучше
+                'gpu_score'    => 40,     // 2GB×10 + 128bit/8 + 1200MHz/100 = 40
+                'ssd_type'    => 'SATA', 
             ],
             'priority_order' => ['ram', 'cpu', 'ssd', 'gpu'],
             'upgrade_suggestions' => [
@@ -57,8 +61,10 @@ return [
             // Пороговые значения для видеомонтажа (Premiere Pro, DaVinci)
             'thresholds' => [
                 'cpu_cores'   => 6,
+                'cpu_score'    => 18,     // 6 × 3000 / 1000
                 'ram_gb'      => 16,
                 'gpu_vram_gb' => 6,
+                'gpu_score'    => 105,    // 6GB×10 + 192bit/8 + 1600MHz/100 = 105
                 'ssd_type'    => 'NVMe',
             ],
             'priority_order' => ['gpu', 'ram', 'cpu', 'ssd'],

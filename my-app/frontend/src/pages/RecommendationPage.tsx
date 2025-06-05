@@ -10,6 +10,12 @@ const { Title, Paragraph } = Typography;
 interface RecommendationResponse {
   problems: string[];
   recommendations: string[];
+  cpu_score?: number;
+  gpu_score?: number;
+  cpu_cores?: number;
+  ram_gb?: number;
+  gpu_vram_gb?: number;
+  ssd_type?: string;
 }
 
 const RecommendationPage: React.FC = () => {
@@ -24,7 +30,6 @@ const RecommendationPage: React.FC = () => {
     { key: 'modeling', label: 'Моделирование (Blender/SolidWorks)' },
     { key: '1c', label: 'Работа с 1С' },
     { key: 'video_edit', label: 'Видеомонтаж' },
-    // При желании можно добавить: { key: 'gaming', label: 'Игры' }, ...
   ];
 
   const fetchRecommendations = async () => {
@@ -40,7 +45,7 @@ const RecommendationPage: React.FC = () => {
       console.error(e);
       setError(
         e.response?.data?.error ||
-          'Ошибка при получении рекомендаций. Попробуйте позже.'
+        'Ошибка при получении рекомендаций. Попробуйте позже.'
       );
     } finally {
       setLoading(false);
@@ -48,8 +53,9 @@ const RecommendationPage: React.FC = () => {
   };
 
   useEffect(() => {
-    // При первой загрузке страницы можно не сразу вызывать, ждём, пока пользователь выберет задачу
-  }, []);
+    // можно автоматически вызывать при загрузке:
+    fetchRecommendations();
+  }, [task]);
 
   if (!user) {
     return <Alert type="warning" message="Пожалуйста, войдите в систему." />;
@@ -58,54 +64,54 @@ const RecommendationPage: React.FC = () => {
   return (
     <div style={{ maxWidth: 800, margin: '0 auto', padding: 20 }}>
       <Title level={2}>Рекомендации по апгрейду для отчёта #{reportId}</Title>
-      <Paragraph>Выберите задачу (тип нагрузки), чтобы получить советы:</Paragraph>
 
+      <Paragraph>Выберите задачу для анализа:</Paragraph>
       <Select
-        style={{ width: 300, marginRight: 16 }}
-        defaultValue={task}
-        onChange={value => setTask(value)}
+        value={task}
+        onChange={setTask}
+        style={{ width: '100%', marginBottom: 20 }}
       >
-        {tasksList.map(t => (
+        {tasksList.map((t) => (
           <Option key={t.key} value={t.key}>
             {t.label}
           </Option>
         ))}
       </Select>
-      <Button type="primary" onClick={fetchRecommendations}>
-        Получить рекомендации
+
+      <Button type="primary" onClick={fetchRecommendations} loading={loading}>
+        Анализ
       </Button>
 
-      <div style={{ marginTop: 24 }}>
-        {loading && <Spin tip="Загружаем рекомендации..." />}
-        {error && (
-          <Alert
-            type="error"
-            message="Ошибка"
-            description={error}
-            style={{ marginTop: 16 }}
-          />
-        )}
-        {data && (
-          <Card style={{ marginTop: 16 }}>
-            {data.problems.length > 0 && (
-              <>
-                <Title level={4}>Найденные проблемы:</Title>
-                {data.problems.map((p, idx) => (
-                  <Paragraph key={idx} style={{ color: 'red' }}>
-                    – {p}
-                  </Paragraph>
-                ))}
-              </>
+      {loading && <Spin style={{ marginTop: 20 }} />}
+
+      {error && <Alert type="error" message={error} style={{ marginTop: 20 }} />}
+
+      {data && (
+        <>
+          <Card style={{ marginTop: 20 }} title="Базовые характеристики">
+            <p>CPU: {data.cpu_cores} ядер</p>
+            <p>CPU Score: {data.cpu_score} баллов</p>
+            <p>RAM: {data.ram_gb} ГБ</p>
+            <p>GPU VRAM: {data.gpu_vram_gb} ГБ</p>
+            <p>GPU Score: {data.gpu_score} баллов</p>
+            <p>SSD: {data.ssd_type}</p>
+          </Card>
+
+          <Card style={{ marginTop: 20 }} title="Найденные проблемы">
+            {data.problems.length > 0 ? (
+              data.problems.map((p, i) => <p key={i} style={{ color: 'red' }}>{p}</p>)
+            ) : (
+              <p style={{ color: 'green' }}>Все параметры соответствуют требованиям.</p>
             )}
-            <Title level={4} style={{ marginTop: 16 }}>
-              Рекомендации:
-            </Title>
-            {data.recommendations.map((rec, idx) => (
-              <Paragraph key={idx}>– {rec}</Paragraph>
+          </Card>
+
+          <Card style={{ marginTop: 20 }} title="Рекомендации">
+            {data.recommendations.map((r, i) => (
+              <p key={i}>{r}</p>
             ))}
           </Card>
-        )}
-      </div>
+        </>
+      )}
     </div>
   );
 };

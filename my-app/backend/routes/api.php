@@ -57,7 +57,8 @@ Route::middleware(['auth:sanctum'])->group(function () {
 	
     // Новый маршрут для получения рекомендаций по апгрейду
     // {id} — ID отчёта в таблице hardware_reports, {task} — ключ задачи, например 'modeling'
-    Route::get('/hwinfo/reports/{id}/recommendations/{task}', [RecommendationController::class, 'getRecommendations']);
+    //Route::get('/hwinfo/reports/{id}/recommendations/{task}', [RecommendationController::class, 'getRecommendations']);
+    Route::get('/hwinfo/reports/{id}/recommendations/{task}', [HardwareReportController::class, 'getRecommendations']);
 
 });
 

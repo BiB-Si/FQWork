@@ -1,0 +1,2921 @@
+
+DESKTOP-RTADDTQ
+
+"Имя компьютера:","DESKTOP-RTADDTQ"
+"Бренд компьютера:","GIGABYTE B550 GAMING X V2"
+"Операционная система:","Microsoft Windows 10 Professional (x64) Build 19045.5854 (22H2)"
+"Загрузка UEFI:","Присутствует"
+"Безопасная загрузка:","Отключено"
+"Целостность кода, защищённого гипервизором (HVCI):","Отключено"
+
+Центральные процессоры
+
+"Количество процессорных пакетов (физических):","1"
+"Количество ядер процессора:","6"
+"Количество логических процессоров:","12"
+
+AMD Ryzen 5 5600
+
+"Имя процессора:","AMD Ryzen 5 5600"
+"Исходная частота процессора:","3500.0 МГц"
+"Original Processor Frequency [MHz]:","3500"
+"CPU ID:","00A20F12"
+"Расширенный CPU ID:","00A20F12"
+"Брендовое название ЦП:","AMD Ryzen 5 5600 6-Core Processor"
+"Производитель ЦП:","AuthenticAMD"
+"Степпинг ЦП:","VMR-B2"
+"Кодовое название ЦП:","Vermeer"
+"Техпроцесс изготовления ЦП:","7 nm"
+"CPU OPN:","100-000000927"
+"Тепловой пакет ЦП (TDP):","65.0 W"
+"Расчётный тепловой ток ЦП (TDC):","Объединённые: 60.0 A, Предел: 60.0 A"
+"Расчётный электрический ток ЦП (EDC):","Объединённые: 90.0 A, Предел: 90.0 A"
+"Отслеживание мощности пакета ЦП (PPT):","Объединённые: 76.0 W, Предел: 76.0 W"
+"Макс. температура перехода ЦП (Tj,max):","95 °C"
+"Скалярный PBO ЦП (снижение надёжности):","1.00x"
+"Предел теплового отключения ЦП:","115.0 °C"
+"Предел температуры HTC ЦП:","115.5 °C"
+"Платформа ЦП:","AM4"
+"Версия обновления микрокода:","A20120E"
+"Версия прошивки SMU:","56.76.0"
+"Порядок производительности ядер:","1, 2, 6, 4, 5, 3"
+"Порядок производительности ядер (CPPC):","1, 2, 6, 4, 5, 3"
+"cLDO VDDP:","0.9002 V"
+"cLDO VDDG IOD:","0.9002 V"
+"cLDO VDDG CCD:","0.9002 V"
+"Количество ядер ЦП:","6"
+"Количество логических ЦП:","12"
+"Минимум ЦП:","550.0 МГц = 5.50 x 100.0 МГц"
+"База ЦП:","3500.0 МГц = 35.00 x 100.0 МГц"
+"Максимальный буст ЦП (Fmax):","4450.0 МГц = 44.50 x 100.0 МГц"
+"Предел частоты Precision Boost:","4450.0 МГц = 44.50 x 100.0 МГц"
+"Предел высокой температуры ЦП:","4200 МГц >= 92 °C"
+"Автосмещение разгона ЦП:","0 МГц"
+"Текущий ЦП:","3553.6 МГц = 35.60 x 99.8 МГц @ 1.1125 V"
+"Тип шины ЦП:","UMI"
+"Кэш L1:","Instruction: 6 x 32 КБ, Data: 6 x 32 КБ"
+"Кэш L2:","Integrated: 6 x 512 КБ"
+"Кэш L3:","32 МБ"
+"Инструкция TLB:","Fully associative, 64 entries"
+"Данные TLB:","Fully associative, 64 entries"
+"FPU on Chip","Присутствует"
+"Enhanced Virtual-86 Mode","Присутствует"
+"I/O Breakpoints","Присутствует"
+"Page Size Extensions","Присутствует"
+"Time Stamp Counter","Присутствует"
+"Pentium-style Model Specific Registers","Присутствует"
+"Physical Address Extension","Присутствует"
+"Machine Check Exception","Присутствует"
+"CMPXCHG8B Instruction","Присутствует"
+"APIC On Chip / PGE (AMD)","Присутствует"
+"Fast System Call","Присутствует"
+"Memory Type Range Registers","Присутствует"
+"Page Global Feature","Присутствует"
+"Machine Check Architecture","Присутствует"
+"CMOV Instruction","Присутствует"
+"Page Attribute Table","Присутствует"
+"36-bit Page Size Extensions","Присутствует"
+"Processor Number","Нет"
+"CLFLUSH Instruction","Присутствует"
+"Debug Trace and EMON Store","Нет"
+"Internal ACPI Support","Нет"
+"MMX Technology","Присутствует"
+"Fast FP Save/Restore (IA MMX-2)","Присутствует"
+"Streaming SIMD Extensions","Присутствует"
+"Streaming SIMD Extensions 2","Присутствует"
+"Self-Snoop","Нет"
+"Multi-Threading Capable","Присутствует"
+"Automatic Clock Control","Нет"
+"IA-64 Processor","Нет"
+"Signal Break on FERR","Нет"
+"Streaming SIMD Extensions 3","Присутствует"
+"PCLMULQDQ Instruction Support","Присутствует"
+"MONITOR/MWAIT Support","Присутствует"
+"Supplemental Streaming SIMD Extensions 3","Присутствует"
+"FMA Extension","Присутствует"
+"CMPXCHG16B Support","Присутствует"
+"Streaming SIMD Extensions 4.1","Присутствует"
+"Streaming SIMD Extensions 4.2","Присутствует"
+"x2APIC","Присутствует"
+"POPCNT Instruction","Присутствует"
+"AES Cryptography Support","Присутствует"
+"XSAVE/XRSTOR/XSETBV/XGETBV Instructions","Присутствует"
+"XGETBV/XSETBV OS Enabled","Присутствует"
+"AVX Support","Присутствует"
+"Half-Precision Convert (CVT16)","Присутствует"
+"FPU on Chip","Присутствует"
+"Enhanced Virtual-86 Mode","Присутствует"
+"I/O Breakpoints","Присутствует"
+"Page Size Extensions","Присутствует"
+"Time Stamp Counter","Присутствует"
+"AMD-style Model Specific Registers","Присутствует"
+"Machine Check Exception","Присутствует"
+"CMPXCHG8B Instruction","Присутствует"
+"APIC On Chip","Присутствует"
+"SYSCALL and SYSRET Instructions","Присутствует"
+"Memory Type Range Registers","Присутствует"
+"Page Global Feature","Присутствует"
+"Machine Check Architecture","Присутствует"
+"CMOV Instruction","Присутствует"
+"Page Attribute Table","Присутствует"
+"36-bit Page Size Extensions","Присутствует"
+"Multi-Processing / Brand feature","Нет"
+"No Execute","Присутствует"
+"MMX Technology","Присутствует"
+"MMX+ Extensions","Присутствует"
+"Fast FP Save/Restore","Присутствует"
+"Fast FP Save/Restore Optimizations","Присутствует"
+"1 GB large page support","Присутствует"
+"RDTSCP Instruction","Присутствует"
+"x86-64 Long Mode","Присутствует"
+"3DNow! Technology Extensions","Нет"
+"3DNow! Technology","Нет"
+"Bit Manipulation Instructions Set 1","Присутствует"
+"Bit Manipulation Instructions Set 2","Присутствует"
+"Advanced Vector Extensions 2 (AVX2)","Присутствует"
+"Advanced Vector Extensions 512 (AVX-512) Foundation","Нет"
+"AVX-512 Prefetch Instructions","Нет"
+"AVX-512 Exponential and Reciprocal Instructions","Нет"
+"AVX-512 Conflict Detection Instructions","Нет"
+"AVX-512 Doubleword and Quadword Instructions","Нет"
+"AVX-512 Byte and Word Instructions","Нет"
+"AVX-512 Vector Length Extensions","Нет"
+"AVX-512 52-bit Integer FMA Instructions","Нет"
+"Secure Hash Algorithm (SHA) Extensions","Присутствует"
+"Software Guard Extensions (SGX) Support","Нет"
+"Supervisor Mode Execution Protection (SMEP)","Присутствует"
+"Supervisor Mode Access Prevention (SMAP)","Присутствует"
+"Hardware Lock Elision (HLE)","Нет"
+"Restricted Transactional Memory (RTM)","Нет"
+"Memory Protection Extensions (MPX)","Нет"
+"Read/Write FS/GS Base Instructions","Присутствует"
+"Enhanced Performance String Instruction","Присутствует"
+"INVPCID Instruction","Присутствует"
+"RDSEED Instruction","Присутствует"
+"Multi-precision Add Carry Instructions (ADX)","Присутствует"
+"PCOMMIT Instructions","Нет"
+"CLFLUSHOPT Instructions","Присутствует"
+"CLWB Instructions","Присутствует"
+"Time-Stamp Counter Adjustment","Нет"
+"Platform Quality of Service Monitoring (PQM)","Присутствует"
+"Platform Quality of Service Enforcement (PQE)","Присутствует"
+"FPU Data Pointer updated only on x87 Exceptions","Нет"
+"Deprecated FPU CS and FPU DS","Нет"
+"Intel Processor Trace","Нет"
+"PREFETCHWT1 Instruction","Нет"
+"AVX-512 Vector Bit Manipulation Instructions","Нет"
+"AVX-512 Vector Bit Manipulation Instructions 2","Нет"
+"AVX-512 Galois Fields New Instructions","Нет"
+"AVX-512 Vector AES","Присутствует"
+"AVX-512 Vector Neural Network Instructions","Нет"
+"AVX-512 Bit Algorithms","Нет"
+"AVX-512 Carry-Less Multiplication Quadword (VPCLMULQDQ)","Присутствует"
+"AVX-512 Vector POPCNT (VPOPCNTD/VPOPCNTQ)","Нет"
+"User-Mode Instruction Prevention","Присутствует"
+"Protection Keys for User-mode Pages","Присутствует"
+"OS Enabled Protection Keys","Нет"
+"Wait and Pause Enhancements (WAITPKG)","Нет"
+"Total Memory Encryption","Нет"
+"Key Locker","Нет"
+"57-bit Linear Addresses, 5-level Paging","Нет"
+"Read Processor ID","Присутствует"
+"OS Bus-Lock Detection","Нет"
+"Cache Line Demote","Нет"
+"MOVDIRI: Direct Stores","Нет"
+"MOVDIR64B: Direct Stores","Нет"
+"ENQCMD: Enqueue Stores","Нет"
+"SGX Launch Configuration","Нет"
+"Protection Keys for Supervisor-Mode Pages","Нет"
+"Control-Flow Enforcement Technology (CET) Shadow Stack","Присутствует"
+"Attestation Services for Intel SGX","Нет"
+"AVX-512 4 x Vector Neural Network Instructions Word Variable Precision","Нет"
+"AVX-512 4 x Fused Multiply Accumulation Packed Single Precision","Нет"
+"Fast Short REP MOV","Присутствует"
+"User Interrupts","Нет"
+"AVX-512 VP2INTERSECT Support","Нет"
+"AVX-512 FP16","Нет"
+"MD_CLEAR Support","Нет"
+"IA32_MCU_OPT_CTRL MSR Support","Нет"
+"Restricted Transactional Memory (RTM) Always Abort","Нет"
+"Restricted Transactional Memory (RTM) Force Abort","Нет"
+"SERIALIZE","Нет"
+"Hybrid Processor","Нет"
+"TSX Suspend Load Address Tracking","Нет"
+"Platform Configuration (PCONFIG)","Нет"
+"Architectural LBRs","Нет"
+"Indirect Branch Restricted Speculation (IBRS), Indirect Branch Predictor Barrier (IBPB)","Нет"
+"Single Thread Indirect Branch Predictors (STIBP)","Нет"
+"L1D_FLUSH Support","Нет"
+"IA32_ARCH_CAPABILITIES MSR","Нет"
+"IA32_CORE_CAPABILITIES MSR","Нет"
+"Speculative Store Bypass Disable (SSBD)","Нет"
+"Control-Flow Enforcement Technology (CET) Indirect Branch Tracking","Нет"
+"Advanced Matrix Extensions (AMX) Tile Architecture","Нет"
+"Advanced Matrix Extensions (AMX) bfloat16 Support","Нет"
+"Advanced Matrix Extensions (AMX) 8-bit Integer Operations","Нет"
+"SHA512 Instructions","Нет"
+"SM3 Instructions","Нет"
+"SM4 Instructions","Нет"
+"Advanced Matrix Extensions (AMX) FP16 Instructions","Нет"
+"AVX (VEX-encoded) Vector Neural Network Instructions","Нет"
+"AVX-512 BFLOAT16 Instructions","Нет"
+"Fast Zero-Length MOVSB","Нет"
+"Fast Short STOSB","Нет"
+"Fast Short CMPSB, SCASB","Нет"
+"History Reset","Нет"
+"Linear Address Masking","Нет"
+"Linear Address Space Separation","Нет"
+"RAO-INT Instructions","Нет"
+"CMPccXADD Instructions","Нет"
+"Flexible Return and Event Delivery (FRED)","Нет"
+"LKGS Instruction","Нет"
+"WRMSRNS Instruction","Нет"
+"NMI-source Reporting","Нет"
+"AVX-IFMA Instructions","Нет"
+"RD/WR MSRLIST Instructions","Нет"
+"INVD Execution Prevention After BIOS-Done","Нет"
+"Move Read-Shared Value (MOVRS)","Нет"
+"Protected Processor Inventory Number (IA32_PPIN) Support","Нет"
+"PBNDKB Instruction","Нет"
+"X86S (Legacy-reduced OS ISA)","Нет"
+"64-bit SIPI","Нет"
+"RDMSR/WRMSR Immediate Forms","Нет"
+"AVX-VNNI-INT8 Instructions","Нет"
+"AVX-VNNI-INT16 Instructions","Нет"
+"AVX-NE-CONVERT Instructions","Нет"
+"PREFETCHIT0/1 Instructions","Нет"
+"URDMSR/UWRMSR Instructions","Нет"
+"AMX-COMPLEX Instructions","Нет"
+"CET Supervisor Shadow-Stack","Нет"
+"UIRET Support","Нет"
+"Advanced Vector Extensions 10 (AVX10)","Нет"
+"Advanced Performance Extensions (APX) Foundation","Нет"
+"Not Exhibiting MXCSR Configuration Dependent Timing (MCDT)","Нет"
+"UC-Lock Disable Feature","Нет"
+"LAHF/SAHF Long Mode Support","Присутствует"
+"Core Multi-Processing Legacy Mode","Присутствует"
+"Secure Virtual Machine","Присутствует"
+"Extended APIC Register Space","Присутствует"
+"LOCK MOV CR0 Support","Присутствует"
+"Advanced Bit Manipulation","Присутствует"
+"SSE4A Support","Присутствует"
+"Misaligned SSE Mode","Присутствует"
+"PREFETCH(W) Support","Присутствует"
+"OS Visible Work-around Support","Присутствует"
+"Instruction Based Sampling","Присутствует"
+"XOP Instruction Support","Нет"
+"SKINIT, STGI, and DEV Support","Присутствует"
+"Watchdog Timer Support","Присутствует"
+"TBM0 Instruction Support","Нет"
+"Lightweight Profiling Support","Нет"
+"FMA4 Instruction Support","Нет"
+"Translation Cache Extension","Присутствует"
+"NodeId Support","Нет"
+"Trailing Bit Manipulation","Нет"
+"Topology Extensions","Присутствует"
+"Core Performance Counter Extensions","Присутствует"
+"NB Performance Counter Extensions","Присутствует"
+"Streaming Performance Monitor Architecture","Нет"
+"Data Breakpoint Extension","Присутствует"
+"Performance Time-Stamp Counter","Нет"
+"L2I Performance Counter Extensions","Присутствует"
+"MWAITX/MONITORX Support","Присутствует"
+"Безопасное шифрование памяти (SME)","Присутствует"
+"Безопасная зашифрованная виртуализация (SEV)","Присутствует"
+"Core Performance Boost","Поддерживается, Включено"
+"Максимальный размер физического адреса:","48-бит (256 ТБ)"
+"Максимальный размер виртуального адреса:","48-бит (256 ТБ)"
+"Range 0-80000000 (0MB-2048MB) Type:","Write Back (WB)"
+"Range 80000000-C0000000 (2048MB-3072MB) Type:","Write Back (WB)"
+"Range BC6D0000-BC6E0000 (3014MB-3014MB) Type:","Uncacheable (UC)"
+
+Системная плата
+
+"Бренд компьютера:","GIGABYTE B550 GAMING X V2"
+"Модель системной платы:","GIGABYTE B550 GAMING X V2"
+"Чипсет (набор микросхем) системной платы:","AMD B550 (Promontory PROM19 C/C1)"
+"Разъёмы на системной плате:","1xPCI Express x1, 2xPCI Express x4, 1xPCI Express x8, 1xPCI Express x16"
+"Поддерживаемая версия PCI Express:","v4.0"
+"Поддерживаемая версия USB:","v3.1"
+"Производитель BIOS:","American Megatrends"
+"Дата BIOS (мм/дд/гггг):","03/22/2024"
+"Версия BIOS:","FE"
+"UEFI BIOS:","Да"
+"Чип Super-IO/LPC:","ITE IT8689E"
+"Чип доверенного платформенного модуля (TPM):","Hardware TPM, version 2.0"
+
+Устройства ACPI
+
+
+AMD GPIO Controller
+
+"Имя устройства:","AMD GPIO Controller"
+"IRQ:","7"
+"Место в памяти:","FED81500"
+"IRQ:","7"
+
+AMD GPIO Controller
+
+"Имя устройства:","AMD GPIO Controller"
+"Место в памяти:","FEC30000 - FEC30FFF"
+"Место в памяти:","FEC30000 - FEC30FFF"
+
+Trusted Platform Module 2.0
+
+"Имя устройства:","Trusted Platform Module 2.0"
+"Место в памяти:","BC3ED000 - BC3F0FFF"
+"Место в памяти:","BC3ED000 - BC3F0FFF"
+"Место в памяти:","BC3F1000 - BC3F4FFF"
+
+Programmable interrupt controller
+
+"Имя устройства:","Programmable interrupt controller"
+"Порт I/O:","0020 - 0021"
+"IRQ:","65792"
+"Порт I/O:","0020 - 0021"
+"Порт I/O:","00A0 - 00A1"
+
+System timer
+
+"Имя устройства:","System timer"
+"Порт I/O:","0040 - 0043"
+"Порт I/O:","0040 - 0043"
+"IRQ:","0"
+
+High precision event timer
+
+"Имя устройства:","High precision event timer"
+"IRQ:","0"
+"Место в памяти:","FED00000"
+"IRQ:","0"
+"IRQ:","8"
+
+Direct memory access controller
+
+"Имя устройства:","Direct memory access controller"
+"Порт I/O:","0089 - 008B"
+"DMA:","4"
+"Порт I/O:","0000 - 000F"
+"Порт I/O:","0081 - 0083"
+"Порт I/O:","0087"
+"Порт I/O:","0089 - 008B"
+"Порт I/O:","008F"
+"Порт I/O:","00C0 - 00DF"
+"DMA:","4"
+
+System speaker
+
+"Имя устройства:","System speaker"
+"Порт I/O:","0061"
+"Порт I/O:","0061"
+
+PCI Express Root Complex
+
+"Имя устройства:","PCI Express Root Complex"
+"Порт I/O:","0000 - FFFFFFFF"
+"Порт I/O:","03B0 - 03DF"
+"Место в памяти:","000A0000 - 0009FFFF"
+"Место в памяти:","C0000000 - FEC2FFFF"
+"Порт I/O:","0000 - 03AF"
+"Порт I/O:","03E0 - 0CF7"
+"Порт I/O:","03B0 - 03DF"
+"Порт I/O:","0D00 - FFFF"
+"Место в памяти:","000A0000 - 000BFFFF"
+"Место в памяти:","000C0000 - 000DFFFF"
+"Место в памяти:","C0000000 - FEC2FFFF"
+"Место в памяти:","FEE00000 - FFFFFFFF"
+
+System CMOS/real time clock
+
+"Имя устройства:","System CMOS/real time clock"
+"Порт I/O:","0070 - 0071"
+"Порт I/O:","0070 - 0071"
+
+System board
+
+"Имя устройства:","System board"
+"Место в памяти:","F0000000 - F7FFFFFF"
+"Место в памяти:","F0000000 - F7FFFFFF"
+
+Motherboard resources
+
+"Имя устройства:","Motherboard resources"
+"Порт I/O:","0A00 - 0A2F"
+"Порт I/O:","0A00 - 0A2F"
+"Порт I/O:","0A30 - 0A3F"
+"Порт I/O:","0A40 - 0A4F"
+"Место в памяти:","FE000000 - FE00FFFF"
+
+Motherboard resources
+
+"Имя устройства:","Motherboard resources"
+"Место в памяти:","FEB80000 - FEBFFFFF"
+"Место в памяти:","FEB80000 - FEBFFFFF"
+
+Motherboard resources
+
+"Имя устройства:","Motherboard resources"
+"Место в памяти:","FD200000 - FD2FFFFF"
+"Место в памяти:","FD200000 - FD2FFFFF"
+
+Motherboard resources
+
+"Имя устройства:","Motherboard resources"
+"Порт I/O:","0010 - 001F"
+"Порт I/O:","0067 - 006F"
+"Порт I/O:","0088"
+"Порт I/O:","00B1"
+"Порт I/O:","04D6"
+"Порт I/O:","0C52"
+"Порт I/O:","0000 - 0C6E"
+"Порт I/O:","0800 - 089F"
+"Порт I/O:","0910 - 091F"
+"Место в памяти:","00000000 - 0000008F"
+"IRQ:","1114369"
+"Порт I/O:","0010 - 001F"
+"Порт I/O:","0022 - 003F"
+"Порт I/O:","0063"
+"Порт I/O:","0065"
+"Порт I/O:","0067 - 006F"
+"Порт I/O:","0072 - 007F"
+"Порт I/O:","0080"
+"Порт I/O:","0084 - 0086"
+"Порт I/O:","0088"
+"Порт I/O:","008C - 008E"
+"Порт I/O:","0090 - 009F"
+"Порт I/O:","00A2 - 00BF"
+"Порт I/O:","00B1"
+"Порт I/O:","00E0 - 00EF"
+"Порт I/O:","04D0 - 04D1"
+"Порт I/O:","040B"
+"Порт I/O:","04D6"
+"Порт I/O:","0C00 - 0C01"
+"Порт I/O:","0C14"
+"Порт I/O:","0C50 - 0C51"
+"Порт I/O:","0C52"
+"Порт I/O:","0C6C"
+"Порт I/O:","0C6F"
+"Порт I/O:","0CD8 - 0CDF"
+"Порт I/O:","0800 - 089F"
+"Порт I/O:","0B00 - 0B0F"
+"Порт I/O:","0B20 - 0B3F"
+"Порт I/O:","0900 - 090F"
+"Порт I/O:","0910 - 091F"
+"Место в памяти:","FEC00000 - FEC00FFF"
+"Место в памяти:","FEC01000 - FEC01FFF"
+"Место в памяти:","FEDC0000"
+"Место в памяти:","FEE00000"
+"Место в памяти:","FED80000 - FED8FFFF"
+"Место в памяти:","FEC10000 - FEC10FFF"
+"Место в памяти:","FF000000"
+
+SMBIOS DMI
+
+
+BIOS
+
+"Поставщик BIOS:","American Megatrends International, LLC."
+"Версия BIOS:","FE"
+"Дата выпуска BIOS (мм/дд/гггг):","03/22/2024"
+"Начальный сегмент BIOS:","F000"
+"Размер BIOS:","16 МБ"
+"Версия системной BIOS:","5.17"
+"ISA Support:","Нет"
+"MCA Support:","Нет"
+"EISA Support:","Нет"
+"PCI Support:","Присутствует"
+"PC Card (PCMCIA) Support:","Нет"
+"Plug-and-Play Support:","Нет"
+"APM Support:","Нет"
+"Flash BIOS:","Присутствует"
+"BIOS Shadow:","Присутствует"
+"VL-VESA Support:","Нет"
+"ESCD Support:","Нет"
+"Boot from CD:","Присутствует"
+"Selectable Boot:","Присутствует"
+"BIOS ROM Socketed:","Присутствует"
+"Boot from PC Card:","Нет"
+"EDD Support:","Присутствует"
+"NEC PC-98 Support:","Нет"
+"ACPI Support:","Нет"
+"USB Legacy Support:","Присутствует"
+"AGP Support:","Нет"
+"I2O Boot Support:","Нет"
+"LS-120 Boot Support:","Нет"
+"ATAPI ZIP Drive Boot Support:","Нет"
+"IEE1394 Boot Support:","Нет"
+"Smart Battery Support:","Нет"
+"BIOS Boot Specification Support:","Присутствует"
+"Function key-initiated Network Service Boot Support:","Нет"
+"Targeted Content Distribution Support:","Присутствует"
+"UEFI Specification Support:","Присутствует"
+"Virtual Machine:","Нет"
+
+Система
+
+"Производитель системы:","Gigabyte Technology Co., Ltd."
+"Имя продукта:","B550 GAMING X V2"
+"Версия продукта:","-CF"
+"Серийный номер продукта:",""
+"UUID:","{03FF0210-04E0-0590-A006-C20700080009}"
+"SKU Number:",""
+"Family:","B550 MB"
+
+Системная плата
+
+"Производитель системной платы:","Gigabyte Technology Co., Ltd."
+"Модель системной платы:","B550 GAMING X V2"
+"Версия системной платы:","x.x"
+"Серийный номер системной платы:",""
+"Тег актива:",""
+"Расположение в корпусе:",""
+
+Корпус системы
+
+"Производитель:",""
+"Тип корпуса ПК:","Desktop"
+"Версия:",""
+"Серийный номер:",""
+"Номер тега актива:",""
+
+Встроенное устройство
+
+"Описание устройства:","   To Be Filled By O.E.M."
+"Тип устройства:","Video Adapter"
+"Состояние устройства:","Включено"
+
+OEM-строки
+
+
+
+Параметры конфигурации системы
+
+
+
+Информация о загрузке системы
+
+"Состояние загрузки:","Ошибок не произошло"
+
+Дополнительная информация о процессоре
+
+"Имя компонента прошивки:",""
+"Firmware Manufacturer:",""
+"Версия прошивки:",""
+"Дата выпуска прошивки:",""
+
+TPM
+
+"Версия спецификации TPM:","2.0"
+"Поставщик TPM:","AMD"
+"Описание TPM:","AMD"
+
+L1 - кэш
+
+"Назначение разъёма:","L1 - Cache"
+"Состояние кэша:","Включено"
+"Расположение кэша:","Внутренний"
+"Тип кэша:","L1 Unified"
+"Схема кэша:","Write-Back"
+"Поддерживаемый тип SRAM:","Pipeline Burst"
+"Текущий тип SRAM:","Pipeline Burst"
+"Скорость кэша:","1 ns"
+"Тип коррекции ошибок:","Multi-bit ECC"
+"Максимальный размер кэша:","384 КБ"
+"Размер установленного кэша:","384 КБ"
+"Ассоциативность кэша:","8-way Set-Associative"
+
+L2 - кэш
+
+"Назначение разъёма:","L2 - Cache"
+"Состояние кэша:","Включено"
+"Расположение кэша:","Внутренний"
+"Тип кэша:","L2 Unified"
+"Схема кэша:","Write-Back"
+"Поддерживаемый тип SRAM:","Pipeline Burst"
+"Текущий тип SRAM:","Pipeline Burst"
+"Скорость кэша:","1 ns"
+"Тип коррекции ошибок:","Multi-bit ECC"
+"Максимальный размер кэша:","3072 КБ"
+"Размер установленного кэша:","3072 КБ"
+"Ассоциативность кэша:","8-way Set-Associative"
+
+L3 - кэш
+
+"Назначение разъёма:","L3 - Cache"
+"Состояние кэша:","Включено"
+"Расположение кэша:","Внутренний"
+"Тип кэша:","L3 Unified"
+"Схема кэша:","Write-Back"
+"Поддерживаемый тип SRAM:","Pipeline Burst"
+"Текущий тип SRAM:","Pipeline Burst"
+"Скорость кэша:","1 ns"
+"Тип коррекции ошибок:","Multi-bit ECC"
+"Максимальный размер кэша:","32768 КБ"
+"Размер установленного кэша:","32768 КБ"
+"Ассоциативность кэша:","16-way Set-Associative"
+
+Процессор
+
+"Производитель процессора:","Advanced Micro Devices, Inc."
+"Версия процессора:","AMD Ryzen 5 5600 6-Core Processor              "
+"Внешняя частота:","100 МГц"
+"Максимально поддерживаемая частота:","4450 МГц"
+"Текущая частота:","3500 МГц"
+"Разъём ЦП:","Занят"
+"Состояние ЦП:","Включено"
+"Тип процессора:","Центральный процессор"
+"Напряжение процессора:","1.1 V"
+"Обновление процессора:","Socket AM4"
+"Назначение разъёма:","AM4"
+
+Встроенное устройство
+
+"Описание устройства:","Realtek ALC1220"
+"Тип устройства:","Audio Device"
+"Состояние устройства:","Включено"
+"Base Segment:Bus:Device:Function Number:","0:8:0:4"
+
+Язык BIOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Устройства памяти
+
+
+Информация об ошибках 32-битной памяти
+
+
+Массив физической памяти
+
+"Расположение массива:","System board"
+"Использование массива:","System memory"
+"Метод обнаружения ошибок:","Нет"
+"Объём памяти:","128 ГБ"
+"Устройства памяти:","4"
+
+Сопоставленный адрес массива памяти
+
+"Начальный адрес:","00000000"
+"Конечный адрес:","002FFFFF"
+"Ширина раздела:","2"
+
+Сопоставленный адрес массива памяти
+
+"Начальный адрес:","00400000"
+"Конечный адрес:","020FFFFF"
+"Ширина раздела:","2"
+
+Информация об ошибках 32-битной памяти
+
+
+Устройство памяти
+
+"Общая ширина:","Неизвестный"
+"Ширина данных:","Неизвестный"
+"Объём устройства:","0 МБ"
+"Форм-фактор устройства:","Неизвестный"
+"Поиск устройств:","DIMM 0"
+"Поиск банка:","P0 CHANNEL A"
+"Тип устройства:","Unknown"
+"Сведения о типе устройства:",""
+"Производитель:","Unknown"
+"Серийный номер:","Unknown"
+"Инвентарный номер:","Unknown"
+"Тег актива:",""
+
+Информация об ошибках 32-битной памяти
+
+
+Устройство памяти
+
+"Общая ширина:","64 bits"
+"Ширина данных:","64 bits"
+"Объём устройства:","16384 МБ"
+"Форм-фактор устройства:","DIMM"
+"Поиск устройств:","DIMM 1"
+"Поиск банка:","P0 CHANNEL A"
+"Тип устройства:","DDR4"
+"Сведения о типе устройства:","Synchronous"
+"Скорость памяти:","3200 MT/s"
+"Configured Memory Speed:","3200 MT/s"
+"Производитель:","A-DATA Technology"
+"Серийный номер:","94280300"
+"Инвентарный номер:","AX4U320016G16A-DTBKD"
+"Тег актива:",""
+"Volatile Size:","16 ГБ"
+
+Сопоставленный адрес устройства памяти
+
+"Начальный адрес:","00000000"
+"Конечный адрес:","01FFFFFF"
+"Partition Row Position:","Неизвестный"
+"Interleave Position:","Неизвестный"
+"Interleave Data Depth:","Неизвестный"
+
+Информация об ошибках 32-битной памяти
+
+
+Устройство памяти
+
+"Общая ширина:","Неизвестный"
+"Ширина данных:","Неизвестный"
+"Объём устройства:","0 МБ"
+"Форм-фактор устройства:","Неизвестный"
+"Поиск устройств:","DIMM 0"
+"Поиск банка:","P0 CHANNEL B"
+"Тип устройства:","Unknown"
+"Сведения о типе устройства:",""
+"Производитель:","Unknown"
+"Серийный номер:","Unknown"
+"Инвентарный номер:","Unknown"
+"Тег актива:",""
+
+Информация об ошибках 32-битной памяти
+
+
+Устройство памяти
+
+"Общая ширина:","64 bits"
+"Ширина данных:","64 bits"
+"Объём устройства:","16384 МБ"
+"Форм-фактор устройства:","DIMM"
+"Поиск устройств:","DIMM 1"
+"Поиск банка:","P0 CHANNEL B"
+"Тип устройства:","DDR4"
+"Сведения о типе устройства:","Synchronous"
+"Скорость памяти:","3200 MT/s"
+"Configured Memory Speed:","3200 MT/s"
+"Производитель:","A-DATA Technology"
+"Серийный номер:","EB320300"
+"Инвентарный номер:","AX4U320016G16A-DTBKD"
+"Тег актива:",""
+"Volatile Size:","16 ГБ"
+
+Сопоставленный адрес устройства памяти
+
+"Начальный адрес:","00000000"
+"Конечный адрес:","01FFFFFF"
+"Partition Row Position:","Неизвестный"
+"Interleave Position:","Неизвестный"
+"Interleave Data Depth:","Неизвестный"
+
+Разъёмы портов
+
+
+USB
+
+"Тип порта:","USB"
+"Внутренняя рекомендация:","J1500"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","USB 3.2"
+"Тип внешнего разъёма:","Access Bus (USB)"
+
+USB
+
+"Тип порта:","USB"
+"Внутренняя рекомендация:","J1501"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","USB 3.2"
+"Тип внешнего разъёма:","Access Bus (USB)"
+
+USB
+
+"Тип порта:","USB"
+"Внутренняя рекомендация:","J1502"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","USB-C"
+"Тип внешнего разъёма:","Access Bus (USB)"
+
+USB
+
+"Тип порта:","USB"
+"Внутренняя рекомендация:","J1506"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","USB 3.2"
+"Тип внешнего разъёма:","Access Bus (USB)"
+
+USB
+
+"Тип порта:","USB"
+"Внутренняя рекомендация:","J1507"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","USB 3.2"
+"Тип внешнего разъёма:","Access Bus (USB)"
+
+USB
+
+"Тип порта:","USB"
+"Внутренняя рекомендация:","J1301"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","USB 3.2"
+"Тип внешнего разъёма:","Access Bus (USB)"
+
+Network Port
+
+"Тип порта:","Network Port"
+"Внутренняя рекомендация:","J1301"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","Network"
+"Тип внешнего разъёма:","RJ-45"
+
+SATA
+
+"Тип порта:","SATA"
+"Внутренняя рекомендация:","J1704"
+"Тип внутреннего разъёма:","SAS/SATA Plug Receptacle"
+"Внешняя рекомендация:","iSATA"
+"Тип внешнего разъёма:","Нет"
+
+SATA
+
+"Тип порта:","SATA"
+"Внутренняя рекомендация:","J1705"
+"Тип внутреннего разъёма:","SAS/SATA Plug Receptacle"
+"Внешняя рекомендация:","iSATA"
+"Тип внешнего разъёма:","Нет"
+
+SATA
+
+"Тип порта:","SATA"
+"Внутренняя рекомендация:","J1700"
+"Тип внутреннего разъёма:","SAS/SATA Plug Receptacle"
+"Внешняя рекомендация:","iSATA"
+"Тип внешнего разъёма:","Нет"
+
+SATA
+
+"Тип порта:","SATA"
+"Внутренняя рекомендация:","J1702"
+"Тип внутреннего разъёма:","SAS/SATA Plug Receptacle"
+"Внешняя рекомендация:","iSATA"
+"Тип внешнего разъёма:","Нет"
+
+SATA
+
+"Тип порта:","SATA"
+"Внутренняя рекомендация:","J1703"
+"Тип внутреннего разъёма:","SAS/SATA Plug Receptacle"
+"Внешняя рекомендация:","iSATA"
+"Тип внешнего разъёма:","Нет"
+
+SATA
+
+"Тип порта:","SATA"
+"Внутренняя рекомендация:","J1706"
+"Тип внутреннего разъёма:","SAS/SATA Plug Receptacle"
+"Внешняя рекомендация:","iSATA"
+"Тип внешнего разъёма:","Нет"
+
+Video Port
+
+"Тип порта:","Video Port"
+"Внутренняя рекомендация:","J1100"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","HDMI"
+"Тип внешнего разъёма:","Нет"
+
+Video Port
+
+"Тип порта:","Video Port"
+"Внутренняя рекомендация:","J1101"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","HDMI"
+"Тип внешнего разъёма:","Нет"
+
+Video Port
+
+"Тип порта:","Video Port"
+"Внутренняя рекомендация:","J1102"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","DP"
+"Тип внешнего разъёма:","Нет"
+
+Audio Port
+
+"Тип порта:","Audio Port"
+"Внутренняя рекомендация:","J2100"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","Front Audio"
+"Тип внешнего разъёма:","Mini-jack (headphones)"
+
+Audio Port
+
+"Тип порта:","Audio Port"
+"Внутренняя рекомендация:","J2101"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","Audio Jack"
+"Тип внешнего разъёма:","Mini-jack (headphones)"
+
+Audio Port
+
+"Тип порта:","Audio Port"
+"Внутренняя рекомендация:","J2102"
+"Тип внутреннего разъёма:","Нет"
+"Внешняя рекомендация:","HD Audio HDR"
+"Тип внешнего разъёма:","Mini-jack (headphones)"
+
+Системные разъёмы
+
+
+J10
+
+"Назначение разъёма:","J10"
+"Тип разъёма:","PCI Express x16"
+"Использование разъёма:","Используется"
+"Ширина шины данных разъёма:","16x / x16"
+"Длина разъёма:","Короткий"
+"Base Segment:Bus:Device:Function Number:","0:0:3:1"
+
+J3700 M.2 Slot
+
+"Назначение разъёма:","J3700 M.2 Slot"
+"Тип разъёма:","PCI Express x1"
+"Использование разъёма:","Используется"
+"Ширина шины данных разъёма:","1x / x1"
+"Длина разъёма:","Короткий"
+"Base Segment:Bus:Device:Function Number:","0:0:1:1"
+
+J3708 PCIE x4 slot from Promontory
+
+"Назначение разъёма:","J3708 PCIE x4 slot from Promontory"
+"Тип разъёма:","PCI Express x4"
+"Использование разъёма:","Пусто"
+"Ширина шины данных разъёма:","4x / x4"
+"Длина разъёма:","Короткий"
+"Base Segment:Bus:Device:Function Number:","0:0:31:7"
+
+Память
+
+"Общий объём памяти:","32 ГБ"
+"Total Memory Size [MB]:","32768"
+"Максимально поддерживаемая частота памяти:","Без ограничения"
+"Текущая частота памяти:","1597.1 МГц"
+"Текущий тайминг (tCAS-tRCD-tRP-tRAS):","16-20-20-38"
+"Поддерживаемые каналы памяти:","2"
+"Активные каналы памяти:","2"
+"Командная скорость (CR):","1T"
+"Read to Read Delay (tRDRD_SC) Same Chipselect:","1T"
+"Read to Read Delay (tRDRD_SG/TrdrdScL) Same Bank Group:","5T"
+"Read to Read Delay (tRDRD_SD) Same DIMM:","5T"
+"Read to Read Delay (tRDRD_DD) Different DIMM:","4T"
+"Write to Write Delay (tWRWR_SC) Same Chipselect:","1T"
+"Write to Write Delay (tWRWR_SG/TwrwrScL) Same Bank Group:","5T"
+"Write to Write Delay (tWRWR_SD) Same DIMM:","7T"
+"Write to Write Delay (tWRWR_DD) Different DIMM:","6T"
+"Read to Write Delay (tRDWR_SC) Same Chipselect:","8T"
+"Read to Write Delay (tRDWR_SG/TrdwrScL) Same Bank Group:","8T"
+"Read to Write Delay (tRDWR_DG/TrdwrScDlr) Different Bank Group:","8T"
+"Read to Write Delay (tRDWR_SD) Same DIMM:","8T"
+"Read to Write Delay (tRDWR_DD) Different DIMM:","8T"
+"Write to Read Delay (tWRRD_SC) Same Chipselect:","3T"
+"Write to Read Delay (tWRRD_SG/TwrrdScL) Same Bank Group:","3T"
+"Write to Read Delay (tWRRD_SD) Same DIMM:","3T"
+"Write to Read Delay (tWRRD_DD) Different DIMM:","3T"
+"Read to Precharge Delay (tRTP):","12T"
+"Write to Precharge Delay (tWTP):","35T"
+"Write Recovery Time (tWR):","24T"
+"RAS# to RAS# Delay (tRRD_L):","8T"
+"RAS# to RAS# Delay (tRRD_S):","7T"
+"Row Cycle Time (tRC):","74T"
+"Refresh Cycle Time (tRFC):","560T"
+"Four Activate Window (tFAW):","36T"
+
+Слот: 2 [P0 CHANNEL A/DIMM 1] - 16 GB PC4-25600 DDR4 SDRAM A-DATA Technology AX4U320016G16A-DTBKD
+
+"Номер модуля:","2"
+"Объём модуля:","16 ГБ"
+"Тип памяти:","DDR4 SDRAM"
+"Тип модуля:","Unbuffered DIMM (UDIMM)"
+"Скорость памяти:","1600.0 MHz (DDR4-3200 / PC4-25600)"
+"Производитель модуля:","A-DATA Technology"
+"Инвентарный номер модуля:","AX4U320016G16A-DTBKD"
+"Версия модуля:","0.0"
+"Серийный номер модуля:","206996 (94280300)"
+"Дата изготовления модуля:","Год: 2024, Неделя: 43"
+"Место изготовления модуля:","1"
+"Производитель SDRAM:","Micron"
+"Степпинг DRAM:","5.2"
+"Проверка/коррекция ошибок:","Нет"
+"Биты адреса строки:","16"
+"Биты адреса столбца:","10"
+"Плотность модуля:","8192 Mb"
+"Количество рангов:","2"
+"Количество групп банков:","4"
+"Ширина устройства:","8 bits"
+"Ширина шины:","64 bits"
+"Die Count:","1"
+"Номинальное напряжение модуля (VDD):","1.2 V"
+"Минимальное время цикла SDRAM (tCKAVGmin):","0.75000 ns (1333 MHz)"
+"Максимальное время цикла SDRAM (tCKAVGmax):","1.60000 ns"
+"Поддерживаемые задержки CAS#:","10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20"
+"Минимальное время задержки CAS# (tAAmin):","13.750 ns"
+"Минимальная задержка RAS# to CAS# (tRCDmin):","13.750 ns"
+"Minimum Row Precharge Time (tRPmin):","13.750 ns"
+"Minimum Active to Precharge Time (tRASmin):","32.000 ns"
+"Поддерживаемый тайминг модуля 1333.3 МГц:","19-19-19-43"
+"Поддерживаемый тайминг модуля 1200.0 МГц:","17-17-17-39"
+"Поддерживаемый тайминг модуля 1066.7 МГц:","15-15-15-35"
+"Поддерживаемый тайминг модуля 933.3 МГц:","13-13-13-30"
+"Поддерживаемый тайминг модуля 800.0 МГц:","11-11-11-26"
+"Поддерживаемый тайминг модуля 666.7 МГц:","10-10-10-22"
+"Minimum Active to Active/Refresh Time (tRCmin):","45.750 ns"
+"Minimum Refresh Recovery Time Delay (tRFC1min):","350.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC2min):","260.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC4min):","160.000 ns"
+"Minimum Four Activate Window Delay Time (tFAWmin):","21.000 ns"
+"Minimum Active to Active Delay Time - Different Bank Group (tRRD_Smin):","3.000 ns"
+"Minimum Active to Active Delay Time - Same Bank Group (tRRD_Lmin):","4.900 ns"
+"Minimum CAS to CAS Delay Time - Same Bank Group (tCCD_Lmin):","5.000 ns"
+"Модуль температурного датчика (TSOD):","Не поддерживается"
+"Номинальная высота модуля:","31 - 32 mm"
+"Максимальная толщина модуля (спереди):","1 - 2 mm"
+"Максимальная толщина модуля (сзади):","1 - 2 mm"
+"Address Mapping from Edge Connector to DRAM:","Mirrored"
+"XMP Revision:","2.0"
+"Уровень напряжения VDD модуля:","1.35 V"
+"Минимальное время цикла SDRAM (tCKAVGmin):","0.62500 ns (1600 MHz)"
+"Поддерживаемые задержки CAS#:","10, 11, 12, 13, 14, 15, 16, 17, 18"
+"Минимальное время задержки CAS# (tAAmin):","10.000 ns"
+"Минимальная задержка RAS# to CAS# (tRCDmin):","12.500 ns"
+"Minimum Row Precharge Time (tRPmin):","12.500 ns"
+"Minimum Active to Precharge Time (tRASmin):","23.750 ns"
+"Поддерживаемый тайминг модуля 1600.0 МГц:","16-20-20-38"
+"Поддерживаемый тайминг модуля 1466.7 МГц:","15-19-19-35"
+"Поддерживаемый тайминг модуля 1333.3 МГц:","14-17-17-32"
+"Поддерживаемый тайминг модуля 1200.0 МГц:","12-15-15-29"
+"Поддерживаемый тайминг модуля 1066.7 МГц:","11-14-14-26"
+"Поддерживаемый тайминг модуля 933.3 МГц:","10-12-12-23"
+"Minimum Active to Active/Refresh Time (tRCmin):","36.250 ns"
+"Minimum Refresh Recovery Time Delay (tRFC1min):","350.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC2min):","260.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC4min):","160.000 ns"
+"Minimum Four Activate Window Delay Time (tFAWmin):","22.000 ns"
+"Minimum Active to Active Delay Time - Different Bank Group (tRRD_Smin):","4.000 ns"
+"Minimum Active to Active Delay Time - Same Bank Group (tRRD_Lmin):","5.000 ns"
+
+Слот: 3 [P0 CHANNEL B/DIMM 1] - 16 GB PC4-25600 DDR4 SDRAM A-DATA Technology AX4U320016G16A-DTBKD
+
+"Номер модуля:","3"
+"Объём модуля:","16 ГБ"
+"Тип памяти:","DDR4 SDRAM"
+"Тип модуля:","Unbuffered DIMM (UDIMM)"
+"Скорость памяти:","1600.0 MHz (DDR4-3200 / PC4-25600)"
+"Производитель модуля:","A-DATA Technology"
+"Инвентарный номер модуля:","AX4U320016G16A-DTBKD"
+"Версия модуля:","0.0"
+"Серийный номер модуля:","209643 (EB320300)"
+"Дата изготовления модуля:","Год: 2024, Неделя: 43"
+"Место изготовления модуля:","1"
+"Производитель SDRAM:","Micron"
+"Степпинг DRAM:","5.2"
+"Проверка/коррекция ошибок:","Нет"
+"Биты адреса строки:","16"
+"Биты адреса столбца:","10"
+"Плотность модуля:","8192 Mb"
+"Количество рангов:","2"
+"Количество групп банков:","4"
+"Ширина устройства:","8 bits"
+"Ширина шины:","64 bits"
+"Die Count:","1"
+"Номинальное напряжение модуля (VDD):","1.2 V"
+"Минимальное время цикла SDRAM (tCKAVGmin):","0.75000 ns (1333 MHz)"
+"Максимальное время цикла SDRAM (tCKAVGmax):","1.60000 ns"
+"Поддерживаемые задержки CAS#:","10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20"
+"Минимальное время задержки CAS# (tAAmin):","13.750 ns"
+"Минимальная задержка RAS# to CAS# (tRCDmin):","13.750 ns"
+"Minimum Row Precharge Time (tRPmin):","13.750 ns"
+"Minimum Active to Precharge Time (tRASmin):","32.000 ns"
+"Поддерживаемый тайминг модуля 1333.3 МГц:","19-19-19-43"
+"Поддерживаемый тайминг модуля 1200.0 МГц:","17-17-17-39"
+"Поддерживаемый тайминг модуля 1066.7 МГц:","15-15-15-35"
+"Поддерживаемый тайминг модуля 933.3 МГц:","13-13-13-30"
+"Поддерживаемый тайминг модуля 800.0 МГц:","11-11-11-26"
+"Поддерживаемый тайминг модуля 666.7 МГц:","10-10-10-22"
+"Minimum Active to Active/Refresh Time (tRCmin):","45.750 ns"
+"Minimum Refresh Recovery Time Delay (tRFC1min):","350.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC2min):","260.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC4min):","160.000 ns"
+"Minimum Four Activate Window Delay Time (tFAWmin):","21.000 ns"
+"Minimum Active to Active Delay Time - Different Bank Group (tRRD_Smin):","3.000 ns"
+"Minimum Active to Active Delay Time - Same Bank Group (tRRD_Lmin):","4.900 ns"
+"Minimum CAS to CAS Delay Time - Same Bank Group (tCCD_Lmin):","5.000 ns"
+"Модуль температурного датчика (TSOD):","Не поддерживается"
+"Номинальная высота модуля:","31 - 32 mm"
+"Максимальная толщина модуля (спереди):","1 - 2 mm"
+"Максимальная толщина модуля (сзади):","1 - 2 mm"
+"Address Mapping from Edge Connector to DRAM:","Mirrored"
+"XMP Revision:","2.0"
+"Уровень напряжения VDD модуля:","1.35 V"
+"Минимальное время цикла SDRAM (tCKAVGmin):","0.62500 ns (1600 MHz)"
+"Поддерживаемые задержки CAS#:","10, 11, 12, 13, 14, 15, 16, 17, 18"
+"Минимальное время задержки CAS# (tAAmin):","10.000 ns"
+"Минимальная задержка RAS# to CAS# (tRCDmin):","12.500 ns"
+"Minimum Row Precharge Time (tRPmin):","12.500 ns"
+"Minimum Active to Precharge Time (tRASmin):","23.750 ns"
+"Поддерживаемый тайминг модуля 1600.0 МГц:","16-20-20-38"
+"Поддерживаемый тайминг модуля 1466.7 МГц:","15-19-19-35"
+"Поддерживаемый тайминг модуля 1333.3 МГц:","14-17-17-32"
+"Поддерживаемый тайминг модуля 1200.0 МГц:","12-15-15-29"
+"Поддерживаемый тайминг модуля 1066.7 МГц:","11-14-14-26"
+"Поддерживаемый тайминг модуля 933.3 МГц:","10-12-12-23"
+"Minimum Active to Active/Refresh Time (tRCmin):","36.250 ns"
+"Minimum Refresh Recovery Time Delay (tRFC1min):","350.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC2min):","260.000 ns"
+"Minimum Refresh Recovery Time Delay (tRFC4min):","160.000 ns"
+"Minimum Four Activate Window Delay Time (tFAWmin):","22.000 ns"
+"Minimum Active to Active Delay Time - Different Bank Group (tRRD_Smin):","4.000 ns"
+"Minimum Active to Active Delay Time - Same Bank Group (tRRD_Lmin):","5.000 ns"
+
+Шина
+
+
+PCI Шина #0
+
+
+AMD Family 17h/19h - Root Complex
+
+"Имя устройства:","AMD Family 17h/19h - Root Complex"
+"Исходное имя устройства:","AMD Family 17h/19h - Root Complex"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1480&SUBSYS_14801022&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1480&SUBSYS_14801022&REV_00\3&11583659&0&00"
+"Пути расположения","PCIROOT(0)#PCI(0000)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:1:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&08"
+"Пути расположения","PCIROOT(0)#PCI(0100)"
+
+AMD Family 17h/19h - PCIe GPP Bridge[7:0]
+
+"Имя устройства:","AMD Family 17h/19h - PCIe GPP Bridge[7:0]"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe GPP Bridge[7:0]"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:1:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1483&SUBSYS_00000000&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Корневой порт корневого комплекса PCI Express"
+"Реализованный слот:","Да"
+"Горячее подключение:","Нет"
+"Сюрприз горячего подключения:","Нет"
+"Предел мощности слота:","75.000 W"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Root Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&09"
+"Пути расположения","PCIROOT(0)#PCI(0101)"
+
+PCI Express x4 Шина #1 [J3700 M.2 Slot]
+
+
+Hosin Global Electronics, Device ID: 2283
+
+"Имя устройства:","Hosin Global Electronics, Device ID: 2283"
+"Исходное имя устройства:","Hosin Global Electronics, Device ID: 2283"
+"Класс устройства:","NVMe Controller"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","1:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1ED0&DEV_2283&SUBSYS_22831ED0&REV_00"
+"Версия:","3.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","8.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:",">64 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Базовый адрес памяти 0","FC810000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","Standard NVM Express Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.4355"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1ED0&DEV_2283&SUBSYS_22831ED0&REV_00\4&12F54805&0&0009"
+"Пути расположения","PCIROOT(0)#PCI(0101)#PCI(0000)"
+
+AMD Family 17h/19h - PCIe GPP Bridge[7:0]
+
+"Имя устройства:","AMD Family 17h/19h - PCIe GPP Bridge[7:0]"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe GPP Bridge[7:0]"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:1:2"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1483&SUBSYS_00000000&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x8"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Корневой порт корневого комплекса PCI Express"
+"Реализованный слот:","Да"
+"Горячее подключение:","Нет"
+"Сюрприз горячего подключения:","Нет"
+"Предел мощности слота:","75.000 W"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","Нет"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","16 - 32 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Root Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&0A"
+"Пути расположения","PCIROOT(0)#PCI(0102)"
+
+PCI Express x8 Шина #2
+
+
+AMD B550 Chipset - USB Controller C
+
+"Имя устройства:","AMD B550 Chipset - USB Controller C"
+"Исходное имя устройства:","AMD B550 Chipset - USB Controller C"
+"Класс устройства:","USB xHCI Controller"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","2:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_43EE&SUBSYS_11421B21&REV_00"
+"Версия:","3.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","8.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Устаревшая конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:","1 - 2 us"
+"L1 Exit Latency:","16 - 32 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Базовый адрес памяти 0","FC7A0000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Поддерживаемая версия USB:","3.1"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB xHCI Compliant Host Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","07-Apr-2025"
+"DeviceInstanceId","PCI\VEN_1022&DEV_43EE&SUBSYS_11421B21&REV_00\4&5F22ECF&0&000A"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)"
+
+USB Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : Realtek Semiconductor, PID=A729
+
+"Производитель устройства:","Realtek Semiconductor"
+"Имя продукта:","Realtek Semiconductor, PID=A729"
+"Серийный номер:","-"
+"Поддерживаемая версия USB:","1.10"
+"USB Speed Capable:","USB 1.1 Full-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","500 mA"
+"Описание драйвера:","Realtek Bluetooth 5.3 Adapter"
+"ID оборудования:","USB\VID_0BDA&PID_A729"
+"Производитель драйвера:","Realtek Semiconductor Corp."
+"Описание драйвера:","Realtek Bluetooth 5.3 Adapter"
+"Поставщик драйвера:","Realtek Semiconductor Corp."
+"Версия драйвера:","1.9.1038.3008"
+"Дата драйвера:","01-Mar-2023"
+"DeviceInstanceId","USB\VID_0BDA&PID_A729\00E04C239987"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(5)"
+
+[Port6] : No Device Connected
+
+
+[Port7] : ITE Tech, PID=5702
+
+"Производитель устройства:","ITE Tech. Inc."
+"Имя продукта:","ITE Device"
+"Серийный номер:","Н/Д"
+"Поддерживаемая версия USB:","2.00"
+"USB Speed Capable:","USB 2.0 High-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","100 mA"
+"Описание драйвера:","USB-устройство ввода"
+"ID оборудования:","USB\VID_048D&PID_5702"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB Input Device"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_048D&PID_5702\6&28CF390B&0&7"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(7)"
+
+[Port8] : No Device Connected
+
+
+[Port9] : Logitech, PID=C09D
+
+"Производитель устройства:","Logitech"
+"Имя продукта:","G102 LIGHTSYNC Gaming Mouse"
+"Серийный номер:","2059304F5457"
+"Поддерживаемая версия USB:","2.00"
+"USB Speed Capable:","USB 2.0 High-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","300 mA"
+"Описание драйвера:","Составное USB устройство"
+"ID оборудования:","USB\VID_046D&PID_C09D"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB Composite Device"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_046D&PID_C09D\2059304F5457"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(9)"
+
+[Port10] : Составное USB устройство
+
+"Производитель устройства:","Н/Д"
+"Имя продукта:","Gaming KB "
+"Серийный номер:","Н/Д"
+"Поддерживаемая версия USB:","1.10"
+"USB Speed Capable:","USB 1.1 Full-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","500 mA"
+"Описание драйвера:","Составное USB устройство"
+"ID оборудования:","USB\VID_258A&PID_002A"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB Composite Device"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_258A&PID_002A\6&28CF390B&0&10"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(10)"
+
+[Port11] : No Device Connected
+
+
+[Port12] : No Device Connected
+
+
+[Port13] : No Device Connected
+
+
+[Port14] : No Device Connected
+
+
+AMD 500-Series Chipset - SATA Controller
+
+"Имя устройства:","AMD 500-Series Chipset - SATA Controller"
+"Исходное имя устройства:","AMD 500-Series Chipset - SATA Controller"
+"Класс устройства:","SATA AHCI Controller"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","2:0:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_43EB&SUBSYS_10621B21&REV_00"
+"Версия:","3.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","8.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Устаревшая конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:","1 - 2 us"
+"L1 Exit Latency:","16 - 32 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTB#"
+"Базовый адрес памяти 5","FC780000"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Поддерживаемая скорость интерфейса:","Gen3 6.0 Gbps"
+"Количество портов:","6"
+"Внешняя поддержка SATA:","Да"
+"Агрессивное управление питанием канала:","Да"
+"Staggered Spin-up:","Да"
+"Mechanical Presence Switch:","Нет"
+"Command Queue Acceleration:","Да"
+"64-bit Addressing:","Да"
+"Статус AHCI:","Включено"
+"Версия AHCI:","1.31"
+"Реализованные порты:","0, 1, 2, 3, 4, 5"
+"Статус порта:","Нет устройств"
+"Внешний порт SATA:","Нет"
+"Горячее подключение:","Да"
+"Статус порта:","Нет устройств"
+"Внешний порт SATA:","Нет"
+"Горячее подключение:","Да"
+"Статус порта:","Нет устройств"
+"Внешний порт SATA:","Нет"
+"Горячее подключение:","Да"
+"Статус порта:","Нет устройств"
+"Внешний порт SATA:","Нет"
+"Горячее подключение:","Да"
+"Статус порта:","Нет устройств"
+"Внешний порт SATA:","Нет"
+"Горячее подключение:","Да"
+"Статус порта:","Нет устройств"
+"Внешний порт SATA:","Нет"
+"Горячее подключение:","Да"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","Standard SATA AHCI Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_43EB&SUBSYS_10621B21&REV_00\4&5F22ECF&0&010A"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0001)"
+
+AMD 500-Series Chipset - PCIe Upstream Switch
+
+"Имя устройства:","AMD 500-Series Chipset - PCIe Upstream Switch"
+"Исходное имя устройства:","AMD 500-Series Chipset - PCIe Upstream Switch"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","2:0:2"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_43E9&SUBSYS_00000000&REV_00"
+"Версия:","3.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","8.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Порт восходящего потока коммутатора PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:","1 - 2 us"
+"L1 Exit Latency:","16 - 32 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","IRQ4"
+"Вывод прерывания:","INTC#"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Upstream Switch Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_43E9&SUBSYS_02011B21&REV_00\4&5F22ECF&0&020A"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0002)"
+
+PCI Express x4 Шина #3
+
+
+AMD 500-Series Chipset - PCIe Downstream Switch (GPP)
+
+"Имя устройства:","AMD 500-Series Chipset - PCIe Downstream Switch (GPP)"
+"Исходное имя устройства:","AMD 500-Series Chipset - PCIe Downstream Switch (GPP)"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","3:4:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_43EA&SUBSYS_00000000&REV_00"
+"Версия:","3.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","8.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Порт нисходящего потока коммутатора PCI Express"
+"Реализованный слот:","Да"
+"Горячее подключение:","Нет"
+"Сюрприз горячего подключения:","Нет"
+"Предел мощности слота:","26.000 W"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","IRQ10"
+"Вывод прерывания:","INTA#"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Downstream Switch Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_43EA&SUBSYS_33081B21&REV_00\5&8FCB7C3&0&20020A"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0002)#PCI(0400)"
+
+PCI Express x4 Шина #4
+
+
+Phison Electronics PS5019 PCIe 4.0 x4 NVMe 1.3 SSD Controller
+
+"Имя устройства:","Phison Electronics PS5019 PCIe 4.0 x4 NVMe 1.3 SSD Controller"
+"Исходное имя устройства:","Phison Electronics PS5019 PCIe 4.0 x4 NVMe 1.3 SSD Controller"
+"Класс устройства:","NVMe Controller"
+"ID ревизии:","1"
+"Адрес PCI (шина:устройство:функция):","4:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1987&DEV_5019&SUBSYS_50191987&REV_01"
+"Версия:","4.0"
+"Максимальная ширина связи:","x4"
+"Текущая ширина связи:","x4"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","8.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:",">64 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Базовый адрес памяти 0","FC600000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","Standard NVM Express Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.4355"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1987&DEV_5019&SUBSYS_50191987&REV_01\6&291EA6AB&0&0020020A"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0002)#PCI(0400)#PCI(0000)"
+
+AMD 500-Series Chipset - PCIe Downstream Switch (GPP)
+
+"Имя устройства:","AMD 500-Series Chipset - PCIe Downstream Switch (GPP)"
+"Исходное имя устройства:","AMD 500-Series Chipset - PCIe Downstream Switch (GPP)"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","3:9:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_43EA&SUBSYS_00000000&REV_00"
+"Версия:","3.0"
+"Максимальная ширина связи:","x1"
+"Текущая ширина связи:","x1"
+"Максимальная скорость связи:","8.0 GT/s"
+"Текущая скорость связи:","2.5 GT/s"
+"Тип устройства/порта:","Порт нисходящего потока коммутатора PCI Express"
+"Реализованный слот:","Да"
+"Горячее подключение:","Нет"
+"Сюрприз горячего подключения:","Нет"
+"Предел мощности слота:","26.000 W"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","IRQ5"
+"Вывод прерывания:","INTA#"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Downstream Switch Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_43EA&SUBSYS_33081B21&REV_00\5&8FCB7C3&0&48020A"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0002)#PCI(0900)"
+
+PCI Express x1 Шина #5
+
+
+RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+
+"Имя устройства:","RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC"
+"Исходное имя устройства:","RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC"
+"Класс устройства:","Ethernet Adapter"
+"ID ревизии:","15"
+"Адрес PCI (шина:устройство:функция):","5:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_15"
+"Версия:","1.1"
+"Максимальная ширина связи:","x1"
+"Текущая ширина связи:","x1"
+"Максимальная скорость связи:","2.5 GT/s"
+"Текущая скорость связи:","2.5 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Базовый адрес I/O 0","F000"
+"Базовый адрес памяти 2","FC504000"
+"Базовый адрес памяти 4","FC500000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Realtek"
+"Описание драйвера:","Realtek PCIe GbE Family Controller"
+"Поставщик драйвера:","Realtek"
+"Версия драйвера:","10.74.1128.2024"
+"Дата драйвера:","28-Nov-2024"
+"DeviceInstanceId","PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_15\01000000684CE00000"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0002)#PCI(0900)#PCI(0000)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:2:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&10"
+"Пути расположения","PCIROOT(0)#PCI(0200)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:3:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&18"
+"Пути расположения","PCIROOT(0)#PCI(0300)"
+
+AMD Family 17h/19h - PCIe GPP Bridge[7:0]
+
+"Имя устройства:","AMD Family 17h/19h - PCIe GPP Bridge[7:0]"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe GPP Bridge[7:0]"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:3:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1483&SUBSYS_00000000&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x8"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","2.5 GT/s"
+"Тип устройства/порта:","Корневой порт корневого комплекса PCI Express"
+"Реализованный слот:","Да"
+"Горячее подключение:","Нет"
+"Сюрприз горячего подключения:","Нет"
+"Предел мощности слота:","75.000 W"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Root Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1483&SUBSYS_14531022&REV_00\3&11583659&0&19"
+"Пути расположения","PCIROOT(0)#PCI(0301)"
+
+PCI Express x16 Шина #6 [J10]
+
+
+MSI RTX 4060 Ventus 3X
+
+"Имя устройства:","MSI RTX 4060 Ventus 3X"
+"Исходное имя устройства:","NVIDIA GeForce RTX 4060 (AD107-400)"
+"Класс устройства:","VGA Compatible Adapter"
+"ID ревизии:","A1"
+"Адрес PCI (шина:устройство:функция):","6:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_10DE&DEV_2882&SUBSYS_51631462&REV_A1"
+"Версия:","4.0"
+"Максимальная ширина связи:","x8"
+"Текущая ширина связи:","x8"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","2.5 GT/s"
+"Тип устройства/порта:","Устаревшая конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:","2 - 4 us"
+"L1 Exit Latency:","2 - 4 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Поддерживается"
+"Resizable BAR0 Supported Size:","16 MB"
+"Resizable BAR0 Current Size:","16 MB"
+"Resizable BAR1 Supported Size:","64 MB, 128 MB, 256 MB, 512 MB, 1 GB, 2 GB, 4 GB, 8 GB"
+"Resizable BAR1 Current Size:","256 MB"
+"Resizable BAR2 Supported Size:","32 MB"
+"Resizable BAR2 Current Size:","32 MB"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Базовый адрес памяти 0","FB000000"
+"Базовый адрес памяти 1","D0000000"
+"Базовый адрес памяти 3","E0000000"
+"Базовый адрес I/O 5","E000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","NVIDIA"
+"Описание драйвера:","NVIDIA GeForce RTX 4060"
+"Поставщик драйвера:","NVIDIA"
+"Версия драйвера:","32.0.15.7283 (GeForce 572.83)"
+"Дата драйвера:","14-Mar-2025"
+"Драйвер DCH/UWD:","Да"
+"DeviceInstanceId","PCI\VEN_10DE&DEV_2882&SUBSYS_51631462&REV_A1\4&2283F625&0&0019"
+"Пути расположения","PCIROOT(0)#PCI(0301)#PCI(0000)"
+
+NVIDIA AD106 - High Definition Audio Controller
+
+"Имя устройства:","NVIDIA AD106 - High Definition Audio Controller"
+"Исходное имя устройства:","NVIDIA AD106 - High Definition Audio Controller"
+"Класс устройства:","High Definition Audio"
+"ID ревизии:","A1"
+"Адрес PCI (шина:устройство:функция):","6:0:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_10DE&DEV_22BE&SUBSYS_51631462&REV_A1"
+"Версия:","4.0"
+"Максимальная ширина связи:","x8"
+"Текущая ширина связи:","x8"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","2.5 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:","2 - 4 us"
+"L1 Exit Latency:","2 - 4 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","IRQ55"
+"Вывод прерывания:","INTB#"
+"Базовый адрес памяти 0","FC080000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","High Definition Audio Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","07-Apr-2025"
+"DeviceInstanceId","PCI\VEN_10DE&DEV_22BE&SUBSYS_51631462&REV_A1\4&2283F625&0&0119"
+"Пути расположения","PCIROOT(0)#PCI(0301)#PCI(0001)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:4:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&20"
+"Пути расположения","PCIROOT(0)#PCI(0400)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:5:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&28"
+"Пути расположения","PCIROOT(0)#PCI(0500)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:7:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&38"
+"Пути расположения","PCIROOT(0)#PCI(0700)"
+
+AMD Family 17h/19h - Internal PCIe GPP Bridge 0 to bus[E:B]
+
+"Имя устройства:","AMD Family 17h/19h - Internal PCIe GPP Bridge 0 to bus[E:B]"
+"Исходное имя устройства:","AMD Family 17h/19h - Internal PCIe GPP Bridge 0 to bus[E:B]"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:7:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1484&SUBSYS_00000000&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Корневой порт корневого комплекса PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","L0s Entry"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Root Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&39"
+"Пути расположения","PCIROOT(0)#PCI(0701)"
+
+PCI Express x16 Шина #7
+
+
+AMD Family 17h/19h - PCIe Dummy Function
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Function"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Function"
+"Класс устройства:","Non-Essential Instrumentation Function"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","7:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_148A&SUBSYS_148A1022&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","Отключено"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Advanced Micro Devices"
+"Описание драйвера:","AMD PCI"
+"Поставщик драйвера:","Advanced Micro Devices"
+"Версия драйвера:","1.0.0.90"
+"Дата драйвера:","26-Mar-2024"
+"DeviceInstanceId","PCI\VEN_1022&DEV_148A&SUBSYS_148A1022&REV_00\4&D573D7&0&0039"
+"Пути расположения","PCIROOT(0)#PCI(0701)#PCI(0000)"
+
+AMD Family 17h/19h - PCIe Dummy Host Bridge
+
+"Имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Исходное имя устройства:","AMD Family 17h/19h - PCIe Dummy Host Bridge"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:8:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&40"
+"Пути расположения","PCIROOT(0)#PCI(0800)"
+
+AMD Family 17h/19h - Internal PCIe GPP Bridge 0 to bus[E:B]
+
+"Имя устройства:","AMD Family 17h/19h - Internal PCIe GPP Bridge 0 to bus[E:B]"
+"Исходное имя устройства:","AMD Family 17h/19h - Internal PCIe GPP Bridge 0 to bus[E:B]"
+"Класс устройства:","PCI-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:8:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1484&SUBSYS_00000000&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Корневой порт корневого комплекса PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","L0s Entry"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI Express Root Port"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5607"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&41"
+"Пути расположения","PCIROOT(0)#PCI(0801)"
+
+PCI Express x16 Шина #8
+
+
+AMD Family 17h/19h - SSP
+
+"Имя устройства:","AMD Family 17h/19h - SSP"
+"Исходное имя устройства:","AMD Family 17h/19h - SSP"
+"Класс устройства:","Non-Essential Instrumentation Function"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","8:0:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1485&SUBSYS_14851022&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","L0s Entry"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Advanced Micro Devices"
+"Описание драйвера:","AMD PCI"
+"Поставщик драйвера:","Advanced Micro Devices"
+"Версия драйвера:","1.0.0.90"
+"Дата драйвера:","26-Mar-2024"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1485&SUBSYS_14851022&REV_00\4&1FDE7688&0&0041"
+"Пути расположения","PCIROOT(0)#PCI(0801)#PCI(0000)"
+
+AMD Family 17h/19h - Cryptographic Coprocessor PSPCPP
+
+"Имя устройства:","AMD Family 17h/19h - Cryptographic Coprocessor PSPCPP"
+"Исходное имя устройства:","AMD Family 17h/19h - Cryptographic Coprocessor PSPCPP"
+"Класс устройства:","Other Encryption/Decryption"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","8:0:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1486&SUBSYS_14861022&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","L0s Entry"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTA#"
+"Базовый адрес памяти 2","FC400000"
+"Базовый адрес памяти 5","FC3FE000"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Advanced Micro Devices Inc."
+"Описание драйвера:","AMD PSP 11.0 Device"
+"Поставщик драйвера:","Advanced Micro Devices Inc."
+"Версия драйвера:","5.34.0.0"
+"Дата драйвера:","03-Oct-2024"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1486&SUBSYS_14861022&REV_00\4&1FDE7688&0&0141"
+"Пути расположения","PCIROOT(0)#PCI(0801)#PCI(0001)"
+
+AMD Matisse/Vermeer - USB3 XHCI Controller
+
+"Имя устройства:","AMD Matisse/Vermeer - USB3 XHCI Controller"
+"Исходное имя устройства:","AMD Matisse/Vermeer - USB3 XHCI Controller"
+"Класс устройства:","USB xHCI Controller"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","8:0:3"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_149C&SUBSYS_50071458&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","L0s Entry"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","INTC#"
+"Базовый адрес памяти 0","FC200000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Поддерживаемая версия USB:","3.1"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB xHCI Compliant Host Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","07-Apr-2025"
+"DeviceInstanceId","PCI\VEN_1022&DEV_149C&SUBSYS_50071458&REV_00\4&1FDE7688&0&0341"
+"Пути расположения","PCIROOT(0)#PCI(0801)#PCI(0003)"
+
+USB Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : No Device Connected
+
+
+[Port6] : No Device Connected
+
+
+[Port7] : No Device Connected
+
+
+[Port8] : No Device Connected
+
+
+AMD Family 17h/19h - HD Audio Controller
+
+"Имя устройства:","AMD Family 17h/19h - HD Audio Controller"
+"Исходное имя устройства:","AMD Family 17h/19h - HD Audio Controller"
+"Класс устройства:","High Definition Audio"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","8:0:4"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1487&SUBSYS_A1941458&REV_00"
+"Версия:","4.0"
+"Максимальная ширина связи:","x16"
+"Текущая ширина связи:","x16"
+"Максимальная скорость связи:","16.0 GT/s"
+"Текущая скорость связи:","16.0 GT/s"
+"Тип устройства/порта:","Конечная точка PCI Express"
+"Реализованный слот:","Нет"
+"Emergency Power Reduction:","Не поддерживается"
+"Поддержка активного управления питанием (ASPM):","L0s and L1"
+"Состояние активного управления питанием (ASPM):","L0s Entry"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Поддержка BAR с изменяемым размером:","Не поддерживается"
+"Линия прерывания:","IRQ36"
+"Вывод прерывания:","INTD#"
+"Базовый адрес памяти 0","FC3F0000"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","High Definition Audio Controller"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","07-Apr-2025"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1487&SUBSYS_A1941458&REV_00\4&1FDE7688&0&0441"
+"Пути расположения","PCIROOT(0)#PCI(0801)#PCI(0004)"
+
+AMD RV/RN/Bixby FCH - SMBus and ACPI Controller
+
+"Имя устройства:","AMD RV/RN/Bixby FCH - SMBus and ACPI Controller"
+"Исходное имя устройства:","AMD RV/RN/Bixby FCH - SMBus and ACPI Controller"
+"Класс устройства:","SMBus (System Management Bus)"
+"ID ревизии:","61"
+"Адрес PCI (шина:устройство:функция):","0:20:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_790B&SUBSYS_50011458&REV_61"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Да"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Advanced Micro Devices, Inc"
+"Описание драйвера:","AMD SMBus"
+"Поставщик драйвера:","Advanced Micro Devices, Inc"
+"Версия драйвера:","5.12.0.44"
+"Дата драйвера:","26-Mar-2024"
+"DeviceInstanceId","PCI\VEN_1022&DEV_790B&SUBSYS_50011458&REV_61\3&11583659&0&A0"
+"Пути расположения","PCIROOT(0)#PCI(1400)"
+
+AMD Promontory/Bixby FCH - LPC Bridge
+
+"Имя устройства:","AMD Promontory/Bixby FCH - LPC Bridge"
+"Исходное имя устройства:","AMD Promontory/Bixby FCH - LPC Bridge"
+"Класс устройства:","PCI-to-ISA Bridge"
+"ID ревизии:","51"
+"Адрес PCI (шина:устройство:функция):","0:20:3"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_790E&SUBSYS_50011458&REV_51"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Включено"
+"Running At 66 MHz:","Да"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard ISA bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_790E&SUBSYS_50011458&REV_51\3&11583659&0&A3"
+"Пути расположения","PCIROOT(0)#PCI(1403)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 0
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 0"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 0"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:0"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00\3&11583659&0&C0"
+"Пути расположения","PCIROOT(0)#PCI(1800)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 1
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 1"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 1"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:1"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00\3&11583659&0&C1"
+"Пути расположения","PCIROOT(0)#PCI(1801)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 2
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 2"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 2"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:2"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00\3&11583659&0&C2"
+"Пути расположения","PCIROOT(0)#PCI(1802)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 3
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 3"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 3"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:3"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00\3&11583659&0&C3"
+"Пути расположения","PCIROOT(0)#PCI(1803)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 4
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 4"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 4"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:4"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00\3&11583659&0&C4"
+"Пути расположения","PCIROOT(0)#PCI(1804)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 5
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 5"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 5"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:5"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00\3&11583659&0&C5"
+"Пути расположения","PCIROOT(0)#PCI(1805)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 6
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 6"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 6"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:6"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6"
+"Пути расположения","PCIROOT(0)#PCI(1806)"
+
+AMD Matisse/Vermeer - Data Fabric: Function 7
+
+"Имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 7"
+"Исходное имя устройства:","AMD Matisse/Vermeer - Data Fabric: Function 7"
+"Класс устройства:","Host-to-PCI Bridge"
+"ID ревизии:","0"
+"Адрес PCI (шина:устройство:функция):","0:24:7"
+"PCI Latency Timer:","0"
+"ID оборудования:","PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00"
+"Линия прерывания:","Н/Д"
+"Вывод прерывания:","Н/Д"
+"Bus Mastering:","Отключено"
+"Running At 66 MHz:","Нет"
+"Fast Back-to-Back Transactions:","Нет"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","PCI standard host CPU bridge"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00\3&11583659&0&C7"
+"Пути расположения","PCIROOT(0)#PCI(1807)"
+
+Видеоадаптер
+
+
+NVIDIA GeForce RTX 4060
+
+"Видеочипсет:","NVIDIA GeForce RTX 4060"
+"Кодовое название видеочипсета:","AD107-400"
+"Видеопамять:","8187 МБ из GDDR6 SDRAM [Samsung]"
+"Видеокарта:","MSI RTX 4060 Ventus 3X"
+"Шина видеокарты:","PCIe v4.0 x8 (16.0 GT/s) @ x8 (2.5 GT/s)"
+"Тип ГП:","Discrete"
+"Видео-RAMDAC:","Integrated RAMDAC"
+"Версия видео-BIOS:","95.07.36.00.e6 [UEFI]"
+"Версия видеочипсета:","A1"
+"Частота ГП:","210.0 МГц"
+"Частота блока видео:","1185.0 МГц"
+"Частота графической памяти:","101.2 МГц (эффективно 810.0 МГц)"
+"Ширина шины графической памяти:","128-bit"
+"Количество ROP:","48"
+"Количество унифицированных шейдеров:","3072"
+"Количество ядер трассировки лучей:","24"
+"Количество тензорных ядер:","96"
+"Количество TMU (блоков текстурирования):","96"
+"Производитель ASIC:","TSMC"
+"Серийный номер ASIC:","174785233377"
+"Статус NVIDIA SLI:","Нет"
+"Поддержка BAR с изменяемым размером (ReBAR):","Поддерживается"
+"Состояние BAR с изменяемым размером (ReBAR):","Отключено (256 МБ)"
+"ID оборудования:","PCI\VEN_10DE&DEV_2882&SUBSYS_51631462&REV_A1"
+"Расположение PCI (шина:устройство:функция):","6:00:0"
+"Производитель драйвера:","NVIDIA"
+"Описание драйвера:","NVIDIA GeForce RTX 4060"
+"Поставщик драйвера:","NVIDIA"
+"Версия драйвера:","32.0.15.7283 (GeForce 572.83)"
+"Дата драйвера:","14-Mar-2025"
+"Драйвер DCH/UWD:","Да"
+"DeviceInstanceId","PCI\VEN_10DE&DEV_2882&SUBSYS_51631462&REV_A1\4&2283F625&0&0019"
+"Пути расположения","PCIROOT(0)#PCI(0301)#PCI(0000)"
+
+Монитор
+
+
+AOC 24B2W1G5
+
+"Название монитора:","AOC 24B2W1G5"
+"Название монитора (от производителя):","24G2W1G3-    "
+"Серийный номер:","SXIQ4HA001072"
+"Дата выпуска:","Неделя: 18, Год: 2024"
+"Аппаратный ID монитора:","Monitor\AOC2402"
+"Макс. вертикальный размер:","30 cm"
+"Макс. горизонтальный размер:","53 cm"
+"Частота строчной развёртки:","200 - 200 kHz"
+"Частота кадровой развёртки:","48 - 165 Hz"
+"Максимальная частота пикселей:","600 MHz"
+"Входной сигнал:","Цифровой"
+"Глубина цвета:","8 Bits per Primary Color"
+"Поддерживаемый стандарт цифрового видеоинтерфейса:","DisplayPort"
+"Gamma Factor:","2.20"
+"Standby:","Не поддерживается"
+"Suspend:","Не поддерживается"
+"Active Off:","Поддерживается"
+"Standard Colour Space (sRGB) Default:","Не поддерживается"
+"Preferred Timing Mode:","Поддерживается"
+"Default GTF (Continuous Frequency):","Поддерживается"
+"DFP 1.x Compatible:","Да"
+"1920 x 1080","60 Hz"
+"1280 x 1024","60 Hz"
+"640 x 480","100 Hz"
+"640 x 480","120 Hz"
+"800 x 600","100 Hz"
+"800 x 600","120 Hz"
+"1024 x 768","100 Hz"
+"1024 x 768","120 Hz"
+"1920 x 1080","527 x 296 mm, Пиксельная частота 148.50 МГц"
+"Red [x,y]:"," 0.6797, 0.3086"
+"Green [x,y]:"," 0.2480, 0.6641"
+"Blue [x,y]:"," 0.1494, 0.0918"
+"White [x,y]:"," 0.3135, 0.3291"
+"sRGB Coverage:","125.870 %"
+"AdobeRGB Coverage:","93.309 %"
+"DCI-P3 Coverage:","92.787 %"
+"NTSC Coverage:","89.151 %"
+"BT.2020 Coverage:","66.569 %"
+"HDR Support:","Не поддерживается"
+"HDR10+ Support:","Не поддерживается"
+"AMD FreeSync Support:","Не поддерживается"
+"NVIDIA G-Sync Support:","Не поддерживается"
+"HDMI AdaptiveSync Support:","Не поддерживается"
+"VESA AdaptiveSync Support:","Не поддерживается"
+"Производитель драйвера:","AOC International (Europe) GmbH"
+"Описание драйвера:","AOC 24G2W1G3-"
+"Поставщик драйвера:","AOC International (Europe) GmbH"
+"Версия драйвера:","1.0.0.0"
+"Дата драйвера:","07-Apr-2021"
+"DeviceInstanceId","DISPLAY\AOC2402\5&38C64FE3&0&UID24834"
+
+Накопители
+
+
+Накопители (S)ATA/ATAPI
+
+
+Накопители NVMe
+
+
+Patriot M.2 P300 128GB
+
+"Контроллер дисков:","NVMe (PCIe x4 8.0 GT/s @ x4 8.0 GT/s)"
+"Хост-контроллер:","Hosin Global Electronics, Device ID: 2283"
+"Модель накопителя:","Patriot M.2 P300 128GB"
+"Серийный номер накопителя:","P300HHBB241008000601"
+"Версия прошивки накопителя:","APF1M3R1"
+"Поддерживаемая версия NVMe:","v1.3"
+"Ёмкость накопителя:","122,104 МБ (128 ГБ)"
+"Drive Capacity [MB]:","122104"
+"SCSI-адрес:","1:0:0:0"
+"Drive Letter(s):","C:"
+"Volatile Write Cache:","Присутствует"
+"Compare Command:","Не поддерживается"
+"Write Uncorrectable Command:","Поддерживается"
+"Dataset Management:","Поддерживается"
+"Write Zeroes:","Не поддерживается"
+"Save field set to a non-zero value:","Поддерживается"
+"Reservations:","Не поддерживается"
+"Timestamp:","Поддерживается"
+"Autonomous Power State Transitions:","Поддерживается"
+"Host Memory Buffer (HMB) Capability:","Поддерживается"
+"Host Memory Buffer (HMB) Minimum Size:","1348 КБ"
+"Host Memory Buffer (HMB) Preferred Size:","130668 КБ"
+"Host Memory Buffer (HMB) Status:","Включено"
+"Host Memory Buffer (HMB) Enabled Size:","64 МБ"
+"NVM Command Set:","Не поддерживается"
+"Key Value (KV) Command Set:","Не поддерживается"
+"Zoned Namespace (ZNS) Command Set:","Не поддерживается"
+"Subsystem Local Memory Command Set:","Не поддерживается"
+"Computational Programs Namespace Command Set:","Не поддерживается"
+"Доступно места ниже порогового значения:","Норма"
+"Температура выше критической:","Норма"
+"Снижение надёжности устройства:","Норма"
+"Носитель в режиме только чтения:","Норма"
+"Сбой устройства резервирования энергозависимой памяти:","Норма"
+"Температура накопителя:","37 °C"
+"Опасный порог температуры:","80 °C"
+"Критический порог температуры:","85 °C"
+"Опасная температура дольше порогового значения:","0 мин"
+"Критическая температура дольше порогового значения:","0 мин"
+"Доступная запасная ёмкость:","100%"
+"Здоровье устройства:","97%"
+"Циклы питания:","285"
+"Время работы:","1143 ч"
+"Небезопасные отключения:","4"
+"Ошибки носителей:","0"
+"Всего хост-чтений:","1.34 ТБ"
+"Всего хост-записей:","2.42 ТБ"
+
+MSI M450 1TB
+
+"Модель накопителя:","MSI M450 1TB"
+"Серийный номер накопителя:","511220905254000020"
+"Версия прошивки накопителя:","EJFM32.1"
+"Поддерживаемая версия NVMe:","v1.4"
+"Ёмкость накопителя:","953,869 МБ (1000 ГБ)"
+"Drive Capacity [MB]:","953869"
+"SCSI-адрес:","2:0:0:0"
+"Volatile Write Cache:","Присутствует"
+"Compare Command:","Поддерживается"
+"Write Uncorrectable Command:","Поддерживается"
+"Dataset Management:","Поддерживается"
+"Write Zeroes:","Поддерживается"
+"Save field set to a non-zero value:","Поддерживается"
+"Reservations:","Не поддерживается"
+"Timestamp:","Поддерживается"
+"Autonomous Power State Transitions:","Поддерживается"
+"Host Memory Buffer (HMB) Capability:","Поддерживается"
+"Host Memory Buffer (HMB) Minimum Size:","64 МБ"
+"Host Memory Buffer (HMB) Preferred Size:","64 МБ"
+"Host Memory Buffer (HMB) Status:","Включено"
+"Host Memory Buffer (HMB) Enabled Size:","64 МБ"
+"NVM Command Set:","Не поддерживается"
+"Key Value (KV) Command Set:","Не поддерживается"
+"Zoned Namespace (ZNS) Command Set:","Не поддерживается"
+"Subsystem Local Memory Command Set:","Не поддерживается"
+"Computational Programs Namespace Command Set:","Не поддерживается"
+"Доступно места ниже порогового значения:","Норма"
+"Температура выше критической:","Норма"
+"Снижение надёжности устройства:","Норма"
+"Носитель в режиме только чтения:","Норма"
+"Сбой устройства резервирования энергозависимой памяти:","Норма"
+"Температура накопителя:","35 °C"
+"Опасный порог температуры:","84 °C"
+"Критический порог температуры:","88 °C"
+"Опасная температура дольше порогового значения:","0 мин"
+"Критическая температура дольше порогового значения:","0 мин"
+"Доступная запасная ёмкость:","100%"
+"Здоровье устройства:","96%"
+"Циклы питания:","1465"
+"Время работы:","7340 ч"
+"Небезопасные отключения:","49"
+"Ошибки носителей:","0"
+"Всего хост-чтений:","23.13 ТБ"
+"Всего хост-записей:","10.22 ТБ"
+
+Аудио
+
+
+NVIDIA AD106 - High Definition Audio Controller
+
+"Аудиоадаптер:","NVIDIA AD106 - High Definition Audio Controller"
+"ID аудиоконтроллера:","PCI\VEN_10DE&DEV_22BE&SUBSYS_51631462&REV_A1"
+"Аудиокодек высокого разрешения:","nVidia HDMI/DP"
+"ID аппаратного аудиокодека:","HDAUDIO\FUNC_01&VEN_10DE&DEV_00A7&SUBSYS_14625163&REV_1001"
+"Производитель драйвера:","NVIDIA Corporation"
+"Описание драйвера:","NVIDIA High Definition Audio"
+"Поставщик драйвера:","NVIDIA Corporation"
+"Версия драйвера:","1.4.2.7"
+"Дата драйвера:","04-Dec-2024"
+"DeviceInstanceId","HDAUDIO\FUNC_01&VEN_10DE&DEV_00A7&SUBSYS_14625163&REV_1001\5&3797EEFE&0&0001"
+
+AMD Family 17h/19h - HD Audio Controller
+
+"Аудиоадаптер:","AMD Family 17h/19h - HD Audio Controller"
+"ID аудиоконтроллера:","PCI\VEN_1022&DEV_1487&SUBSYS_A1941458&REV_00"
+"Аудиокодек высокого разрешения:","RealTek ALC897"
+"ID аппаратного аудиокодека:","HDAUDIO\FUNC_01&VEN_10EC&DEV_0897&SUBSYS_1458A194&REV_1004"
+"Производитель драйвера:","Realtek Semiconductor Corp."
+"Описание драйвера:","Realtek High Definition Audio"
+"Поставщик драйвера:","Realtek Semiconductor Corp."
+"Версия драйвера:","6.0.9800.1"
+"Дата драйвера:","18-Feb-2025"
+"DeviceInstanceId","HDAUDIO\FUNC_01&VEN_10EC&DEV_0897&SUBSYS_1458A194&REV_1004\5&E50FC96&0&0001"
+
+Сеть
+
+
+RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+
+"Сетевая карта:","RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC"
+"Описание поставщика:","Realtek PCIe GbE Family Controller"
+"MAC-адрес:","10-FF-E0-90-A0-C2"
+"Максимальная скорость связи:","1 Gbps"
+"Текущая скорость связи:","1 Gbps"
+"Размер буфера передачи:","193792 Bytes"
+"Размер буфера приёма:","775168 Bytes"
+"ID оборудования:","PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_15"
+"Производитель драйвера:","Realtek"
+"Описание драйвера:","Realtek PCIe GbE Family Controller"
+"Поставщик драйвера:","Realtek"
+"Версия драйвера:","10.74.1128.2024"
+"Дата драйвера:","28-Nov-2024"
+"DeviceInstanceId","PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_15\01000000684CE00000"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0002)#PCI(0900)#PCI(0000)"
+
+Порты
+
+
+Последовательные порты
+
+
+COM5
+
+
+COM6
+
+
+USB
+
+
+Расширяемый хост-контроллер AMD USB 3.10 — 1.10 (Майкрософт)
+
+
+Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : Realtek Semiconductor, PID=A729
+
+"Производитель устройства:","Realtek Semiconductor"
+"Имя продукта:","Realtek Semiconductor, PID=A729"
+"Серийный номер:","-"
+"Поддерживаемая версия USB:","1.10"
+"USB Speed Capable:","USB 1.1 Full-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","500 mA"
+"Описание драйвера:","Realtek Bluetooth 5.3 Adapter"
+"ID оборудования:","USB\VID_0BDA&PID_A729"
+"Производитель драйвера:","Realtek Semiconductor Corp."
+"Описание драйвера:","Realtek Bluetooth 5.3 Adapter"
+"Поставщик драйвера:","Realtek Semiconductor Corp."
+"Версия драйвера:","1.9.1038.3008"
+"Дата драйвера:","01-Mar-2023"
+"DeviceInstanceId","USB\VID_0BDA&PID_A729\00E04C239987"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(5)"
+
+[Port6] : No Device Connected
+
+
+[Port7] : ITE Tech, PID=5702
+
+"Производитель устройства:","ITE Tech. Inc."
+"Имя продукта:","ITE Device"
+"Серийный номер:","Н/Д"
+"Поддерживаемая версия USB:","2.00"
+"USB Speed Capable:","USB 2.0 High-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","100 mA"
+"Описание драйвера:","USB-устройство ввода"
+"ID оборудования:","USB\VID_048D&PID_5702"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB Input Device"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.3636"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_048D&PID_5702\6&28CF390B&0&7"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(7)"
+
+[Port8] : No Device Connected
+
+
+[Port9] : Logitech, PID=C09D
+
+"Производитель устройства:","Logitech"
+"Имя продукта:","G102 LIGHTSYNC Gaming Mouse"
+"Серийный номер:","2059304F5457"
+"Поддерживаемая версия USB:","2.00"
+"USB Speed Capable:","USB 2.0 High-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","300 mA"
+"Описание драйвера:","Составное USB устройство"
+"ID оборудования:","USB\VID_046D&PID_C09D"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB Composite Device"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_046D&PID_C09D\2059304F5457"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(9)"
+
+[Port10] : Составное USB устройство
+
+"Производитель устройства:","Н/Д"
+"Имя продукта:","Gaming KB "
+"Серийный номер:","Н/Д"
+"Поддерживаемая версия USB:","1.10"
+"USB Speed Capable:","USB 1.1 Full-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","500 mA"
+"Описание драйвера:","Составное USB устройство"
+"ID оборудования:","USB\VID_258A&PID_002A"
+"Производитель драйвера:","Microsoft"
+"Описание драйвера:","USB Composite Device"
+"Поставщик драйвера:","Microsoft"
+"Версия драйвера:","10.0.19041.5794"
+"Дата драйвера:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_258A&PID_002A\6&28CF390B&0&10"
+"Пути расположения","PCIROOT(0)#PCI(0102)#PCI(0000)#USBROOT(0)#USB(10)"
+
+[Port11] : No Device Connected
+
+
+[Port12] : No Device Connected
+
+
+[Port13] : No Device Connected
+
+
+[Port14] : No Device Connected
+
+
+Расширяемый хост-контроллер AMD USB 3.10 — 1.10 (Майкрософт)
+
+
+Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : No Device Connected
+
+
+[Port6] : No Device Connected
+
+
+[Port7] : No Device Connected
+
+
+[Port8] : No Device Connected
+

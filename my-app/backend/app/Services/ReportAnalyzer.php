@@ -41,6 +41,20 @@ class ReportAnalyzer
         $ramGb      = $data['ram_gb']      ?? null;
         $gpuVramGb  = $data['gpu_vram_gb'] ?? null;
         $ssdType    = $data['ssd_type']    ?? null;
+        
+        $cpuFreqMhz  = $data['cpu_freq_mhz'] ?? 0;
+        $gpuClockMhz = $data['gpu_clock_mhz'] ?? 0;
+        $gpuBusWidth = $data['gpu_bus_width'] ?? 0;
+
+        $cpuScore = 0;
+        if ($cpuCores !== null && $cpuFreqMhz > 0) {
+            $cpuScore = ($cpuCores * $cpuFreqMhz) / 1000;
+        }
+
+        $gpuScore = 0;
+        if ($gpuVramGb !== null && $gpuBusWidth > 0 && $gpuClockMhz > 0) {
+            $gpuScore = ($gpuVramGb * 10) + ($gpuBusWidth / 8) + ($gpuClockMhz / 100);
+        }
 
         $problems = [];
         $details  = []; // Для внутреннего использования (какие имена параметров ниже порога)
@@ -50,6 +64,10 @@ class ReportAnalyzer
             $problems[] = "CPU: {$cpuCores} ядер (< {$thresholds['cpu_cores']}) — слишком мало ядер для задачи.";
             $details['cpu'] = $cpuCores;
         }
+        if ($cpuScore < ($thresholds['cpu_score'] ?? 10)) {
+            $problems[] = "CPU мощность: {$cpuScore} баллов (< {$thresholds['cpu_score']}) — недостаточно вычислительной мощности для задачи.";
+            $details['cpu_score'] = $cpuScore;
+        }
         if ($ramGb !== null && $ramGb < $thresholds['ram_gb']) {
             $problems[] = "RAM: {$ramGb} ГБ (< {$thresholds['ram_gb']}) — недостаточно оперативной памяти.";
             $details['ram'] = $ramGb;
@@ -58,6 +76,12 @@ class ReportAnalyzer
             $problems[] = "GPU VRAM: {$gpuVramGb} ГБ (< {$thresholds['gpu_vram_gb']}) — неудовлетворительный объём видеопамяти.";
             $details['gpu'] = $gpuVramGb;
         }
+        
+        if ($gpuScore < ($thresholds['gpu_score'] ?? 10)) {
+            $problems[] = "GPU мощность: {$gpuScore} баллов (< {$thresholds['gpu_score']}) — видеоподсистема недостаточно мощная для задачи.";
+            $details['gpu_score'] = $gpuScore;
+        }
+
         if ($ssdType !== null) {
             $ssdPriority = [
                 'hdd'  => 1,
@@ -107,10 +131,18 @@ class ReportAnalyzer
         } else {
             $recs[] = $minReq;
         }
-
+        // Log::info('ReportAnalyzer debug', [
+        //     'data' => $data,
+        //     'cpu_score' => $cpuScore ?? null,
+        //     'gpu_score' => $gpuScore ?? null,
+        //     'cpu_freq_mhz' => $cpuFreqMhz ?? null,
+        //     'gpu_clock_mhz' => $gpuClockMhz ?? null,
+        //     'gpu_bus_width' => $gpuBusWidth ?? null,
+        // ]);
         return [
             'problems'        => $problems,
             'recommendations' => $recs,
         ];
     }
 }
+

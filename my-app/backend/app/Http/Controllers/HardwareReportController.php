@@ -66,6 +66,29 @@ class HardwareReportController extends Controller
         return response()->json($reports);
     }
 
+    public function getRecommendations(int $reportId, string $task)
+    {
+        $report = HardwareReport::findOrFail($reportId);
+
+        // Запускаем анализ
+        $result = ReportAnalyzer::analyze($report, $task);
+
+        // Добавим базовые параметры вручную
+        $data = $report->report_data ?? [];
+
+        return response()->json([
+            'problems'        => $result['problems'],
+            'recommendations' => $result['recommendations'],
+            'cpu_score'       => $result['cpu_score'] ?? null,
+            'gpu_score'       => $result['gpu_score'] ?? null,
+            'cpu_cores'       => $data['cpu_cores'] ?? null,
+            'ram_gb'          => $data['ram_gb'] ?? null,
+            'gpu_vram_gb'     => $data['gpu_vram_gb'] ?? null,
+            'ssd_type'        => $data['ssd_type'] ?? null,
+        ]);
+    }
+
+
     // Получить один отчёт
     public function show($id)
     {
