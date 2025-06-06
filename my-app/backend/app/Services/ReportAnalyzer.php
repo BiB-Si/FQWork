@@ -124,13 +124,30 @@ class ReportAnalyzer
             $recs[] = "Все параметры соответствуют минимальным требованиям.";
         }
 
-        // Если есть какие-то проблемы, собираем их в текущее сообщение
         if (!empty($problems)) {
-            array_unshift($recs, implode(' ', $problems));
+            // Отдельные рекомендации по каждому пункту
+            foreach ($details as $param => $value) {
+                switch ($param) {
+                    case 'cpu':
+                        $recs[] = "Рекомендуется перейти на CPU с большим количеством ядер, например: " . ($suggestions['cpu'][0] ?? 'более мощный процессор');
+                        break;
+                    case 'ram':
+                        $recs[] = "Рекомендуется увеличить объём оперативной памяти, например: " . ($suggestions['ram'][0] ?? 'добавить ОЗУ');
+                        break;
+                    case 'gpu':
+                        $recs[] = "Рекомендуется более мощная видеокарта, например: " . ($suggestions['gpu'][0] ?? 'другая видеокарта');
+                        break;
+                    case 'ssd':
+                        $recs[] = "Рекомендуется использовать накопитель типа " . ($thresholds['ssd_type'] ?? 'SSD');
+                        break;
+                }
+            }
             $recs[] = $minReq;
         } else {
+            $recs[] = "Все параметры соответствуют минимальным требованиям.";
             $recs[] = $minReq;
         }
+
         // Log::info('ReportAnalyzer debug', [
         //     'data' => $data,
         //     'cpu_score' => $cpuScore ?? null,
